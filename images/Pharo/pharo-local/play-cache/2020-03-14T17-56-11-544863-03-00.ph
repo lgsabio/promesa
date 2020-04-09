@@ -1,0 +1,1 @@
+(self versosConPalabra: unaPalabra) atRandom: Random new

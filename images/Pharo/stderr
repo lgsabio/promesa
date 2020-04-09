@@ -1,0 +1,1998 @@
+[31mMessageNotUnderstood: receiver of "default" is nil
+[0mUndefinedObject(Object)>>doesNotUnderstand: #default
+WAVersosAleatorios>>initialize
+WAVersosAleatorios class(GRObject class)>>new
+[ self rootClass new ] in WAInitialRenderLoopContinuation>>createRoot in Block: [ self rootClass new ]
+GRSmallDictionary2>>at:ifAbsent:
+WARequestContext>>rootComponentIfAbsent:
+WAInitialRenderLoopContinuation>>createRoot
+WAInitialRenderLoopContinuation>>basicPerformAction
+[ self basicPerformAction ] in WAInitialRenderLoopContinuation(WAActionPhaseContinuation)>>performAction in Block: [ self basicPerformAction ]
+BlockClosure>>on:do:
+WAWalkbackErrorHandler(WAExceptionHandler)>>handleExceptionsDuring:
+[ currentHandler handleExceptionsDuring: aBlock ] in WAInitialRenderLoopContinuation(WARenderLoopContinuation)>>withNotificationHandlerDo: in Block: [ currentHandler handleExceptionsDuring: aBlock ]
+BlockClosure>>on:do:
+WAInitialRenderLoopContinuation(WARenderLoopContinuation)>>withNotificationHandlerDo:
+WAInitialRenderLoopContinuation(WAActionPhaseContinuation)>>performAction
+WAInitialRenderLoopContinuation(WAActionPhaseContinuation)>>handleFiltered:
+[ self filter handleFiltered: aRequestContext ] in WAInitialRenderLoopContinuation(WARequestHandler)>>handle: in Block: [ self filter handleFiltered: aRequestContext ]
+[ activeProcess psValueAt: index put: anObject.
+aBlock value ] in WACurrentRequestContext(DynamicVariable)>>value:during: in Block: [ activeProcess psValueAt: index put: anObject....
+BlockClosure>>ensure:
+WACurrentRequestContext(DynamicVariable)>>value:during:
+WACurrentRequestContext class(DynamicVariable class)>>value:during:
+WACurrentRequestContext class(GRDynamicVariable class)>>use:during:
+[ WACurrentRequestContext use: self during: aBlock ] in WARequestContext>>push:during: in Block: [ WACurrentRequestContext use: self during: aBlock...etc...
+BlockClosure>>ensure:
+WARequestContext>>push:during:
+WAInitialRenderLoopContinuation(WARequestHandler)>>handle:
+[ super handle: aRequestContext ] in WAInitialRenderLoopContinuation(WASessionContinuation)>>handle: in Block: [ super handle: aRequestContext ]
+BlockClosure>>on:do:
+WAInitialRenderLoopContinuation(WASessionContinuation)>>withUnregisteredHandlerDo:
+WAInitialRenderLoopContinuation(WASessionContinuation)>>handle:
+[0m[31mInstance of ConstruccionDePoemas class did not understand #default
+[0mConstruccionDePoemas class(Object)>>doesNotUnderstand: #default
+WAVersosAleatorios>>DoItIn:
+OpalCompiler>>evaluate
+RubSmalltalkEditor>>evaluate:andDo:
+RubSmalltalkEditor>>highlightEvaluateAndDo:
+[ textMorph textArea editor highlightEvaluateAndDo: ann action.
+textMorph shoutStyler style: textMorph text ] in [ textMorph textArea
+	handleEdit: [ textMorph textArea editor highlightEvaluateAndDo: ann action.
+		textMorph shoutStyler style: textMorph text ] ] in GLMMorphicPharoMethodRenderer(GLMMorphicPharoCodeRenderer)>>actOnHighlightAndEvaluate: in Block: [ textMorph textArea editor highlightEvaluateAndDo...etc...
+RubEditingArea(RubAbstractTextArea)>>handleEdit:
+[ textMorph textArea
+	handleEdit: [ textMorph textArea editor highlightEvaluateAndDo: ann action.
+		textMorph shoutStyler style: textMorph text ] ] in GLMMorphicPharoMethodRenderer(GLMMorphicPharoCodeRenderer)>>actOnHighlightAndEvaluate: in Block: [ textMorph textArea...
+WorldState>>runStepMethodsIn:
+WorldMorph>>runStepMethods
+WorldState>>doOneCycleNowFor:
+WorldState>>doOneCycleFor:
+WorldMorph>>doOneCycle
+WorldMorph class>>doOneCycle
+[ [ WorldMorph doOneCycle.
+Processor yield.
+false ] whileFalse: [  ] ] in MorphicUIManager>>spawnNewProcess in Block: [ [ WorldMorph doOneCycle....
+[ self value.
+Processor terminateActive ] in BlockClosure>>newProcess in Block: [ self value....
+[0m[31mMessageNotUnderstood: receiver of "default" is nil
+[0mUndefinedObject(Object)>>doesNotUnderstand: #default
+WAVersosAleatorios>>initialize
+WAVersosAleatorios class(GRObject class)>>new
+[ self rootClass new ] in WAInitialRenderLoopContinuation>>createRoot in Block: [ self rootClass new ]
+GRSmallDictionary2>>at:ifAbsent:
+WARequestContext>>rootComponentIfAbsent:
+WAInitialRenderLoopContinuation>>createRoot
+WAInitialRenderLoopContinuation>>basicPerformAction
+[ self basicPerformAction ] in WAInitialRenderLoopContinuation(WAActionPhaseContinuation)>>performAction in Block: [ self basicPerformAction ]
+BlockClosure>>on:do:
+WAWalkbackErrorHandler(WAExceptionHandler)>>handleExceptionsDuring:
+[ currentHandler handleExceptionsDuring: aBlock ] in WAInitialRenderLoopContinuation(WARenderLoopContinuation)>>withNotificationHandlerDo: in Block: [ currentHandler handleExceptionsDuring: aBlock ]
+BlockClosure>>on:do:
+WAInitialRenderLoopContinuation(WARenderLoopContinuation)>>withNotificationHandlerDo:
+WAInitialRenderLoopContinuation(WAActionPhaseContinuation)>>performAction
+WAInitialRenderLoopContinuation(WAActionPhaseContinuation)>>handleFiltered:
+[ self filter handleFiltered: aRequestContext ] in WAInitialRenderLoopContinuation(WARequestHandler)>>handle: in Block: [ self filter handleFiltered: aRequestContext ]
+[ activeProcess psValueAt: index put: anObject.
+aBlock value ] in WACurrentRequestContext(DynamicVariable)>>value:during: in Block: [ activeProcess psValueAt: index put: anObject....
+BlockClosure>>ensure:
+WACurrentRequestContext(DynamicVariable)>>value:during:
+WACurrentRequestContext class(DynamicVariable class)>>value:during:
+WACurrentRequestContext class(GRDynamicVariable class)>>use:during:
+[ WACurrentRequestContext use: self during: aBlock ] in WARequestContext>>push:during: in Block: [ WACurrentRequestContext use: self during: aBlock...etc...
+BlockClosure>>ensure:
+WARequestContext>>push:during:
+WAInitialRenderLoopContinuation(WARequestHandler)>>handle:
+[ super handle: aRequestContext ] in WAInitialRenderLoopContinuation(WASessionContinuation)>>handle: in Block: [ super handle: aRequestContext ]
+BlockClosure>>on:do:
+WAInitialRenderLoopContinuation(WASessionContinuation)>>withUnregisteredHandlerDo:
+WAInitialRenderLoopContinuation(WASessionContinuation)>>handle:
+[0m[31mMessageNotUnderstood: receiver of "default" is nil
+[0mUndefinedObject(Object)>>doesNotUnderstand: #default
+WAVersosAleatorios>>initialize
+WAVersosAleatorios class(GRObject class)>>new
+[ self rootClass new ] in WAInitialRenderLoopContinuation>>createRoot in Block: [ self rootClass new ]
+GRSmallDictionary2>>at:ifAbsent:
+WARequestContext>>rootComponentIfAbsent:
+WAInitialRenderLoopContinuation>>createRoot
+WAInitialRenderLoopContinuation>>basicPerformAction
+[ self basicPerformAction ] in WAInitialRenderLoopContinuation(WAActionPhaseContinuation)>>performAction in Block: [ self basicPerformAction ]
+BlockClosure>>on:do:
+WAWalkbackErrorHandler(WAExceptionHandler)>>handleExceptionsDuring:
+[ currentHandler handleExceptionsDuring: aBlock ] in WAInitialRenderLoopContinuation(WARenderLoopContinuation)>>withNotificationHandlerDo: in Block: [ currentHandler handleExceptionsDuring: aBlock ]
+BlockClosure>>on:do:
+WAInitialRenderLoopContinuation(WARenderLoopContinuation)>>withNotificationHandlerDo:
+WAInitialRenderLoopContinuation(WAActionPhaseContinuation)>>performAction
+WAInitialRenderLoopContinuation(WAActionPhaseContinuation)>>handleFiltered:
+[ self filter handleFiltered: aRequestContext ] in WAInitialRenderLoopContinuation(WARequestHandler)>>handle: in Block: [ self filter handleFiltered: aRequestContext ]
+[ activeProcess psValueAt: index put: anObject.
+aBlock value ] in WACurrentRequestContext(DynamicVariable)>>value:during: in Block: [ activeProcess psValueAt: index put: anObject....
+BlockClosure>>ensure:
+WACurrentRequestContext(DynamicVariable)>>value:during:
+WACurrentRequestContext class(DynamicVariable class)>>value:during:
+WACurrentRequestContext class(GRDynamicVariable class)>>use:during:
+[ WACurrentRequestContext use: self during: aBlock ] in WARequestContext>>push:during: in Block: [ WACurrentRequestContext use: self during: aBlock...etc...
+BlockClosure>>ensure:
+WARequestContext>>push:during:
+WAInitialRenderLoopContinuation(WARequestHandler)>>handle:
+[ super handle: aRequestContext ] in WAInitialRenderLoopContinuation(WASessionContinuation)>>handle: in Block: [ super handle: aRequestContext ]
+BlockClosure>>on:do:
+WAInitialRenderLoopContinuation(WASessionContinuation)>>withUnregisteredHandlerDo:
+WAInitialRenderLoopContinuation(WASessionContinuation)>>handle:
+[0m[31mMessageNotUnderstood: receiver of "default" is nil
+[0mUndefinedObject(Object)>>doesNotUnderstand: #default
+WAVersosAleatorios>>initialize
+WAVersosAleatorios class(GRObject class)>>new
+[ self rootClass new ] in WAInitialRenderLoopContinuation>>createRoot in Block: [ self rootClass new ]
+GRSmallDictionary2>>at:ifAbsent:
+WARequestContext>>rootComponentIfAbsent:
+WAInitialRenderLoopContinuation>>createRoot
+WAInitialRenderLoopContinuation>>basicPerformAction
+[ self basicPerformAction ] in WAInitialRenderLoopContinuation(WAActionPhaseContinuation)>>performAction in Block: [ self basicPerformAction ]
+BlockClosure>>on:do:
+WAWalkbackErrorHandler(WAExceptionHandler)>>handleExceptionsDuring:
+[ currentHandler handleExceptionsDuring: aBlock ] in WAInitialRenderLoopContinuation(WARenderLoopContinuation)>>withNotificationHandlerDo: in Block: [ currentHandler handleExceptionsDuring: aBlock ]
+BlockClosure>>on:do:
+WAInitialRenderLoopContinuation(WARenderLoopContinuation)>>withNotificationHandlerDo:
+WAInitialRenderLoopContinuation(WAActionPhaseContinuation)>>performAction
+WAInitialRenderLoopContinuation(WAActionPhaseContinuation)>>handleFiltered:
+[ self filter handleFiltered: aRequestContext ] in WAInitialRenderLoopContinuation(WARequestHandler)>>handle: in Block: [ self filter handleFiltered: aRequestContext ]
+[ activeProcess psValueAt: index put: anObject.
+aBlock value ] in WACurrentRequestContext(DynamicVariable)>>value:during: in Block: [ activeProcess psValueAt: index put: anObject....
+BlockClosure>>ensure:
+WACurrentRequestContext(DynamicVariable)>>value:during:
+WACurrentRequestContext class(DynamicVariable class)>>value:during:
+WACurrentRequestContext class(GRDynamicVariable class)>>use:during:
+[ WACurrentRequestContext use: self during: aBlock ] in WARequestContext>>push:during: in Block: [ WACurrentRequestContext use: self during: aBlock...etc...
+BlockClosure>>ensure:
+WARequestContext>>push:during:
+WAInitialRenderLoopContinuation(WARequestHandler)>>handle:
+[ super handle: aRequestContext ] in WAInitialRenderLoopContinuation(WASessionContinuation)>>handle: in Block: [ super handle: aRequestContext ]
+BlockClosure>>on:do:
+WAInitialRenderLoopContinuation(WASessionContinuation)>>withUnregisteredHandlerDo:
+WAInitialRenderLoopContinuation(WASessionContinuation)>>handle:
+[0m[31mMessageNotUnderstood: Poemas class>>desdeArchivo:
+[0mPoemas class(Object)>>doesNotUnderstand: #desdeArchivo:
+[ :pathOfFile | self conPoemas: (Poemas desdeArchivo: pathOfFile) ] in ConstruccionDePoemas class>>desdeArchivos in Block: [ :pathOfFile | self conPoemas: (Poemas desdeArchi...etc...
+Array(SequenceableCollection)>>collect:
+ConstruccionDePoemas class>>desdeArchivos
+WAConstruccionDePoemas>>initialize
+WAConstruccionDePoemas class(GRObject class)>>new
+[ self rootClass new ] in WAInitialRenderLoopContinuation>>createRoot in Block: [ self rootClass new ]
+GRSmallDictionary2>>at:ifAbsent:
+WARequestContext>>rootComponentIfAbsent:
+WAInitialRenderLoopContinuation>>createRoot
+WAInitialRenderLoopContinuation>>basicPerformAction
+[ self basicPerformAction ] in WAInitialRenderLoopContinuation(WAActionPhaseContinuation)>>performAction in Block: [ self basicPerformAction ]
+BlockClosure>>on:do:
+WAWalkbackErrorHandler(WAExceptionHandler)>>handleExceptionsDuring:
+[ currentHandler handleExceptionsDuring: aBlock ] in WAInitialRenderLoopContinuation(WARenderLoopContinuation)>>withNotificationHandlerDo: in Block: [ currentHandler handleExceptionsDuring: aBlock ]
+BlockClosure>>on:do:
+WAInitialRenderLoopContinuation(WARenderLoopContinuation)>>withNotificationHandlerDo:
+WAInitialRenderLoopContinuation(WAActionPhaseContinuation)>>performAction
+WAInitialRenderLoopContinuation(WAActionPhaseContinuation)>>handleFiltered:
+[ self filter handleFiltered: aRequestContext ] in WAInitialRenderLoopContinuation(WARequestHandler)>>handle: in Block: [ self filter handleFiltered: aRequestContext ]
+[ activeProcess psValueAt: index put: anObject.
+aBlock value ] in WACurrentRequestContext(DynamicVariable)>>value:during: in Block: [ activeProcess psValueAt: index put: anObject....
+BlockClosure>>ensure:
+WACurrentRequestContext(DynamicVariable)>>value:during:
+WACurrentRequestContext class(DynamicVariable class)>>value:during:
+WACurrentRequestContext class(GRDynamicVariable class)>>use:during:
+[ WACurrentRequestContext use: self during: aBlock ] in WARequestContext>>push:during: in Block: [ WACurrentRequestContext use: self during: aBlock...etc...
+BlockClosure>>ensure:
+WARequestContext>>push:during:
+WAInitialRenderLoopContinuation(WARequestHandler)>>handle:
+[ super handle: aRequestContext ] in WAInitialRenderLoopContinuation(WASessionContinuation)>>handle: in Block: [ super handle: aRequestContext ]
+[0m[31mInstance of Poemas class did not understand #desdeArchivo:
+[0mPoemas class(Object)>>doesNotUnderstand: #desdeArchivo:
+ConstruccionDePoemas class>>DoItIn:
+OpalCompiler>>evaluate
+RubSmalltalkEditor>>evaluate:andDo:
+RubSmalltalkEditor>>highlightEvaluateAndDo:
+[ textMorph textArea editor highlightEvaluateAndDo: ann action.
+textMorph shoutStyler style: textMorph text ] in [ textMorph textArea
+	handleEdit: [ textMorph textArea editor highlightEvaluateAndDo: ann action.
+		textMorph shoutStyler style: textMorph text ] ] in GLMMorphicPharoMethodRenderer(GLMMorphicPharoCodeRenderer)>>actOnHighlightAndEvaluate: in Block: [ textMorph textArea editor highlightEvaluateAndDo...etc...
+RubEditingArea(RubAbstractTextArea)>>handleEdit:
+[ textMorph textArea
+	handleEdit: [ textMorph textArea editor highlightEvaluateAndDo: ann action.
+		textMorph shoutStyler style: textMorph text ] ] in GLMMorphicPharoMethodRenderer(GLMMorphicPharoCodeRenderer)>>actOnHighlightAndEvaluate: in Block: [ textMorph textArea...
+WorldState>>runStepMethodsIn:
+WorldMorph>>runStepMethods
+WorldState>>doOneCycleNowFor:
+WorldState>>doOneCycleFor:
+WorldMorph>>doOneCycle
+WorldMorph class>>doOneCycle
+[ [ WorldMorph doOneCycle.
+Processor yield.
+false ] whileFalse: [  ] ] in MorphicUIManager>>spawnNewProcess in Block: [ [ WorldMorph doOneCycle....
+[ self value.
+Processor terminateActive ] in BlockClosure>>newProcess in Block: [ self value....
+[0m[31mMessageNotUnderstood: Poemas class>>desdeArchivo:
+[0mPoemas class(Object)>>doesNotUnderstand: #desdeArchivo:
+[ :pathOfFile | 
+self
+	conPoemas:
+		(Poemas
+			desdeArchivo:
+				(pathOfFile pathString trimLeft: [ :char | char = $/ ])
+					asFileReference)
+	autor: pathOfFile basenameWithoutExtension ] in ConstruccionDePoemas class>>desdeArchivos in Block: [ :pathOfFile | ...
+Array(SequenceableCollection)>>collect:
+ConstruccionDePoemas class>>desdeArchivos
+WAConstruccionDePoemas>>initialize
+WAConstruccionDePoemas class(GRObject class)>>new
+[ self rootClass new ] in WAInitialRenderLoopContinuation>>createRoot in Block: [ self rootClass new ]
+GRSmallDictionary2>>at:ifAbsent:
+WARequestContext>>rootComponentIfAbsent:
+WAInitialRenderLoopContinuation>>createRoot
+WAInitialRenderLoopContinuation>>basicPerformAction
+[ self basicPerformAction ] in WAInitialRenderLoopContinuation(WAActionPhaseContinuation)>>performAction in Block: [ self basicPerformAction ]
+BlockClosure>>on:do:
+WAWalkbackErrorHandler(WAExceptionHandler)>>handleExceptionsDuring:
+[ currentHandler handleExceptionsDuring: aBlock ] in WAInitialRenderLoopContinuation(WARenderLoopContinuation)>>withNotificationHandlerDo: in Block: [ currentHandler handleExceptionsDuring: aBlock ]
+BlockClosure>>on:do:
+WAInitialRenderLoopContinuation(WARenderLoopContinuation)>>withNotificationHandlerDo:
+WAInitialRenderLoopContinuation(WAActionPhaseContinuation)>>performAction
+WAInitialRenderLoopContinuation(WAActionPhaseContinuation)>>handleFiltered:
+[ self filter handleFiltered: aRequestContext ] in WAInitialRenderLoopContinuation(WARequestHandler)>>handle: in Block: [ self filter handleFiltered: aRequestContext ]
+[ activeProcess psValueAt: index put: anObject.
+aBlock value ] in WACurrentRequestContext(DynamicVariable)>>value:during: in Block: [ activeProcess psValueAt: index put: anObject....
+BlockClosure>>ensure:
+WACurrentRequestContext(DynamicVariable)>>value:during:
+WACurrentRequestContext class(DynamicVariable class)>>value:during:
+WACurrentRequestContext class(GRDynamicVariable class)>>use:during:
+[ WACurrentRequestContext use: self during: aBlock ] in WARequestContext>>push:during: in Block: [ WACurrentRequestContext use: self during: aBlock...etc...
+BlockClosure>>ensure:
+WARequestContext>>push:during:
+WAInitialRenderLoopContinuation(WARequestHandler)>>handle:
+[ super handle: aRequestContext ] in WAInitialRenderLoopContinuation(WASessionContinuation)>>handle: in Block: [ super handle: aRequestContext ]
+[0m[31mMessageNotUnderstood: Poemas class>>desdeArchivo:autor:
+[0mPoemas class(Object)>>doesNotUnderstand: #desdeArchivo:autor:
+[ :pathOfFile | 
+self
+	conPoemas:
+		(Poemas
+			desdeArchivo:
+				(pathOfFile pathString trimLeft: [ :char | char = $/ ])
+					asFileReference
+			autor: pathOfFile basenameWithoutExtension) ] in ConstruccionDePoemas class>>desdeArchivos in Block: [ :pathOfFile | ...
+Array(SequenceableCollection)>>collect:
+ConstruccionDePoemas class>>desdeArchivos
+WAConstruccionDePoemas>>initialize
+WAConstruccionDePoemas class(GRObject class)>>new
+[ self rootClass new ] in WAInitialRenderLoopContinuation>>createRoot in Block: [ self rootClass new ]
+GRSmallDictionary2>>at:ifAbsent:
+WARequestContext>>rootComponentIfAbsent:
+WAInitialRenderLoopContinuation>>createRoot
+WAInitialRenderLoopContinuation>>basicPerformAction
+[ self basicPerformAction ] in WAInitialRenderLoopContinuation(WAActionPhaseContinuation)>>performAction in Block: [ self basicPerformAction ]
+BlockClosure>>on:do:
+WAWalkbackErrorHandler(WAExceptionHandler)>>handleExceptionsDuring:
+[ currentHandler handleExceptionsDuring: aBlock ] in WAInitialRenderLoopContinuation(WARenderLoopContinuation)>>withNotificationHandlerDo: in Block: [ currentHandler handleExceptionsDuring: aBlock ]
+BlockClosure>>on:do:
+WAInitialRenderLoopContinuation(WARenderLoopContinuation)>>withNotificationHandlerDo:
+WAInitialRenderLoopContinuation(WAActionPhaseContinuation)>>performAction
+WAInitialRenderLoopContinuation(WAActionPhaseContinuation)>>handleFiltered:
+[ self filter handleFiltered: aRequestContext ] in WAInitialRenderLoopContinuation(WARequestHandler)>>handle: in Block: [ self filter handleFiltered: aRequestContext ]
+[ activeProcess psValueAt: index put: anObject.
+aBlock value ] in WACurrentRequestContext(DynamicVariable)>>value:during: in Block: [ activeProcess psValueAt: index put: anObject....
+BlockClosure>>ensure:
+WACurrentRequestContext(DynamicVariable)>>value:during:
+WACurrentRequestContext class(DynamicVariable class)>>value:during:
+WACurrentRequestContext class(GRDynamicVariable class)>>use:during:
+[ WACurrentRequestContext use: self during: aBlock ] in WARequestContext>>push:during: in Block: [ WACurrentRequestContext use: self during: aBlock...etc...
+BlockClosure>>ensure:
+WARequestContext>>push:during:
+WAInitialRenderLoopContinuation(WARequestHandler)>>handle:
+[ super handle: aRequestContext ] in WAInitialRenderLoopContinuation(WASessionContinuation)>>handle: in Block: [ super handle: aRequestContext ]
+[0m[31mInstance of Character did not understand #includes:
+[0mCharacter(Object)>>doesNotUnderstand: #includes:
+WideString(String)>>substrings:
+Poemas class>>DoItIn:
+OpalCompiler>>evaluate
+RubSmalltalkEditor>>evaluate:andDo:
+RubSmalltalkEditor>>highlightEvaluateAndDo:
+[ textMorph textArea editor highlightEvaluateAndDo: ann action.
+textMorph shoutStyler style: textMorph text ] in [ textMorph textArea
+	handleEdit: [ textMorph textArea editor highlightEvaluateAndDo: ann action.
+		textMorph shoutStyler style: textMorph text ] ] in GLMMorphicPharoMethodRenderer(GLMMorphicPharoCodeRenderer)>>actOnHighlightAndEvaluate: in Block: [ textMorph textArea editor highlightEvaluateAndDo...etc...
+RubEditingArea(RubAbstractTextArea)>>handleEdit:
+[ textMorph textArea
+	handleEdit: [ textMorph textArea editor highlightEvaluateAndDo: ann action.
+		textMorph shoutStyler style: textMorph text ] ] in GLMMorphicPharoMethodRenderer(GLMMorphicPharoCodeRenderer)>>actOnHighlightAndEvaluate: in Block: [ textMorph textArea...
+WorldState>>runStepMethodsIn:
+WorldMorph>>runStepMethods
+WorldState>>doOneCycleNowFor:
+WorldState>>doOneCycleFor:
+WorldMorph>>doOneCycle
+WorldMorph class>>doOneCycle
+[ [ WorldMorph doOneCycle.
+Processor yield.
+false ] whileFalse: [  ] ] in MorphicUIManager>>spawnNewProcess in Block: [ [ WorldMorph doOneCycle....
+[ self value.
+Processor terminateActive ] in BlockClosure>>newProcess in Block: [ self value....
+[0m[31mInstance of Character class did not understand #crlf
+[0mCharacter class(Object)>>doesNotUnderstand: #crlf
+Poemas class>>DoItIn:
+OpalCompiler>>evaluate
+RubSmalltalkEditor>>evaluate:andDo:
+RubSmalltalkEditor>>highlightEvaluateAndDo:
+[ textMorph textArea editor highlightEvaluateAndDo: ann action.
+textMorph shoutStyler style: textMorph text ] in [ textMorph textArea
+	handleEdit: [ textMorph textArea editor highlightEvaluateAndDo: ann action.
+		textMorph shoutStyler style: textMorph text ] ] in GLMMorphicPharoMethodRenderer(GLMMorphicPharoCodeRenderer)>>actOnHighlightAndEvaluate: in Block: [ textMorph textArea editor highlightEvaluateAndDo...etc...
+RubEditingArea(RubAbstractTextArea)>>handleEdit:
+[ textMorph textArea
+	handleEdit: [ textMorph textArea editor highlightEvaluateAndDo: ann action.
+		textMorph shoutStyler style: textMorph text ] ] in GLMMorphicPharoMethodRenderer(GLMMorphicPharoCodeRenderer)>>actOnHighlightAndEvaluate: in Block: [ textMorph textArea...
+WorldState>>runStepMethodsIn:
+WorldMorph>>runStepMethods
+WorldState>>doOneCycleNowFor:
+WorldState>>doOneCycleFor:
+WorldMorph>>doOneCycle
+WorldMorph class>>doOneCycle
+[ [ WorldMorph doOneCycle.
+Processor yield.
+false ] whileFalse: [  ] ] in MorphicUIManager>>spawnNewProcess in Block: [ [ WorldMorph doOneCycle....
+[ self value.
+Processor terminateActive ] in BlockClosure>>newProcess in Block: [ self value....
+[0m[31mMessageNotUnderstood: Character class>>crlf
+[0mCharacter class(Object)>>doesNotUnderstand: #crlf
+Poemas class>>desdeArchivo:autor:
+[ :pathOfFile | 
+self
+	conPoemas:
+		(Poemas
+			desdeArchivo:
+				(pathOfFile pathString trimLeft: [ :char | char = $/ ])
+					asFileReference
+			autor: pathOfFile basenameWithoutExtension) ] in ConstruccionDePoemas class>>desdeArchivos in Block: [ :pathOfFile | ...
+Array(SequenceableCollection)>>collect:
+ConstruccionDePoemas class>>desdeArchivos
+WAConstruccionDePoemas>>initialize
+WAConstruccionDePoemas class(GRObject class)>>new
+[ self rootClass new ] in WAInitialRenderLoopContinuation>>createRoot in Block: [ self rootClass new ]
+GRSmallDictionary2>>at:ifAbsent:
+WARequestContext>>rootComponentIfAbsent:
+WAInitialRenderLoopContinuation>>createRoot
+WAInitialRenderLoopContinuation>>basicPerformAction
+[ self basicPerformAction ] in WAInitialRenderLoopContinuation(WAActionPhaseContinuation)>>performAction in Block: [ self basicPerformAction ]
+BlockClosure>>on:do:
+WAWalkbackErrorHandler(WAExceptionHandler)>>handleExceptionsDuring:
+[ currentHandler handleExceptionsDuring: aBlock ] in WAInitialRenderLoopContinuation(WARenderLoopContinuation)>>withNotificationHandlerDo: in Block: [ currentHandler handleExceptionsDuring: aBlock ]
+BlockClosure>>on:do:
+WAInitialRenderLoopContinuation(WARenderLoopContinuation)>>withNotificationHandlerDo:
+WAInitialRenderLoopContinuation(WAActionPhaseContinuation)>>performAction
+WAInitialRenderLoopContinuation(WAActionPhaseContinuation)>>handleFiltered:
+[ self filter handleFiltered: aRequestContext ] in WAInitialRenderLoopContinuation(WARequestHandler)>>handle: in Block: [ self filter handleFiltered: aRequestContext ]
+[ activeProcess psValueAt: index put: anObject.
+aBlock value ] in WACurrentRequestContext(DynamicVariable)>>value:during: in Block: [ activeProcess psValueAt: index put: anObject....
+BlockClosure>>ensure:
+WACurrentRequestContext(DynamicVariable)>>value:during:
+WACurrentRequestContext class(DynamicVariable class)>>value:during:
+WACurrentRequestContext class(GRDynamicVariable class)>>use:during:
+[ WACurrentRequestContext use: self during: aBlock ] in WARequestContext>>push:during: in Block: [ WACurrentRequestContext use: self during: aBlock...etc...
+BlockClosure>>ensure:
+WARequestContext>>push:during:
+WAInitialRenderLoopContinuation(WARequestHandler)>>handle:
+[0m[31mMessageNotUnderstood: receiver of "con:" is nil
+[0mUndefinedObject(Object)>>doesNotUnderstand: #con:
+Poemas>>initializeCon:autor:
+Poemas class>>con:autor:
+Poemas class>>desdeArchivo:autor:
+[ :pathOfFile | 
+self
+	conPoemas:
+		(Poemas
+			desdeArchivo:
+				(pathOfFile pathString trimLeft: [ :char | char = $/ ])
+					asFileReference
+			autor: pathOfFile basenameWithoutExtension) ] in ConstruccionDePoemas class>>desdeArchivos in Block: [ :pathOfFile | ...
+Array(SequenceableCollection)>>collect:
+ConstruccionDePoemas class>>desdeArchivos
+WAConstruccionDePoemas>>initialize
+WAConstruccionDePoemas class(GRObject class)>>new
+[ self rootClass new ] in WAInitialRenderLoopContinuation>>createRoot in Block: [ self rootClass new ]
+GRSmallDictionary2>>at:ifAbsent:
+WARequestContext>>rootComponentIfAbsent:
+WAInitialRenderLoopContinuation>>createRoot
+WAInitialRenderLoopContinuation>>basicPerformAction
+[ self basicPerformAction ] in WAInitialRenderLoopContinuation(WAActionPhaseContinuation)>>performAction in Block: [ self basicPerformAction ]
+BlockClosure>>on:do:
+WAWalkbackErrorHandler(WAExceptionHandler)>>handleExceptionsDuring:
+[ currentHandler handleExceptionsDuring: aBlock ] in WAInitialRenderLoopContinuation(WARenderLoopContinuation)>>withNotificationHandlerDo: in Block: [ currentHandler handleExceptionsDuring: aBlock ]
+BlockClosure>>on:do:
+WAInitialRenderLoopContinuation(WARenderLoopContinuation)>>withNotificationHandlerDo:
+WAInitialRenderLoopContinuation(WAActionPhaseContinuation)>>performAction
+WAInitialRenderLoopContinuation(WAActionPhaseContinuation)>>handleFiltered:
+[ self filter handleFiltered: aRequestContext ] in WAInitialRenderLoopContinuation(WARequestHandler)>>handle: in Block: [ self filter handleFiltered: aRequestContext ]
+[ activeProcess psValueAt: index put: anObject.
+aBlock value ] in WACurrentRequestContext(DynamicVariable)>>value:during: in Block: [ activeProcess psValueAt: index put: anObject....
+BlockClosure>>ensure:
+WACurrentRequestContext(DynamicVariable)>>value:during:
+WACurrentRequestContext class(DynamicVariable class)>>value:during:
+WACurrentRequestContext class(GRDynamicVariable class)>>use:during:
+[ WACurrentRequestContext use: self during: aBlock ] in WARequestContext>>push:during: in Block: [ WACurrentRequestContext use: self during: aBlock...etc...
+BlockClosure>>ensure:
+[0m[31mMessageNotUnderstood: Array>>renderOnComponent:withRenderer:
+[0mArray(Object)>>doesNotUnderstand: #renderOnComponent:withRenderer:
+[ model renderOnComponent: self withRenderer: html.
+html div class: 'clear' ] in WAConstruccionDePoemas>>renderContentOn: in Block: [ model renderOnComponent: self withRenderer: html...etc...
+BlockClosure>>renderOn:
+WAHtmlCanvas(WARenderer)>>render:
+WAHtmlCanvas(WACanvas)>>render:
+[ self before.
+canvas render: anObject.
+self after ] in WAGenericTag(WATagBrush)>>with: in Block: [ self before....
+BlockClosure>>renderOn:
+WAHtmlCanvas(WARenderer)>>render:
+WAHtmlCanvas(WACanvas)>>render:
+WAHtmlCanvas(WACanvas)>>nest:
+WAGenericTag(WABrush)>>with:
+WAGenericTag(WATagBrush)>>with:
+WAConstruccionDePoemas>>renderContentOn:
+WARenderVisitor>>visitPainter:
+WARenderVisitor(WAPainterVisitor)>>visitPresenter:
+WARenderVisitor(WAPainterVisitor)>>visitComponent:
+WAConstruccionDePoemas(WAComponent)>>accept:
+WARenderVisitor(WAVisitor)>>visit:
+WARenderingGuide(WAPresenterGuide)>>visitPainter:
+WARenderingGuide(WAPainterVisitor)>>visitPresenter:
+WARenderingGuide(WAPainterVisitor)>>visitComponent:
+WAConstruccionDePoemas(WAComponent)>>accept:
+WAConstruccionDePoemas(WAPresenter)>>renderUndecoratedWithContext:
+WAToolDecoration(WADecoration)>>renderNextOn:
+WAToolDecoration>>renderChildOn:
+WAToolDecoration>>renderContentOn:
+WARenderVisitor>>visitPainter:
+WARenderVisitor(WAPainterVisitor)>>visitPresenter:
+WARenderVisitor(WAPainterVisitor)>>visitDecoration:
+WAToolDecoration(WADecoration)>>accept:
+[0m[31mMessageNotUnderstood: Array>>renderOnComponent:withRenderer:
+[0mArray(Object)>>doesNotUnderstand: #renderOnComponent:withRenderer:
+[ model renderOnComponent: self withRenderer: html.
+html div class: 'clear' ] in WAConstruccionDePoemas>>renderContentOn: in Block: [ model renderOnComponent: self withRenderer: html...etc...
+BlockClosure>>renderOn:
+WAHtmlCanvas(WARenderer)>>render:
+WAHtmlCanvas(WACanvas)>>render:
+[ self before.
+canvas render: anObject.
+self after ] in WAGenericTag(WATagBrush)>>with: in Block: [ self before....
+BlockClosure>>renderOn:
+WAHtmlCanvas(WARenderer)>>render:
+WAHtmlCanvas(WACanvas)>>render:
+WAHtmlCanvas(WACanvas)>>nest:
+WAGenericTag(WABrush)>>with:
+WAGenericTag(WATagBrush)>>with:
+WAConstruccionDePoemas>>renderContentOn:
+WARenderVisitor>>visitPainter:
+WARenderVisitor(WAPainterVisitor)>>visitPresenter:
+WARenderVisitor(WAPainterVisitor)>>visitComponent:
+WAConstruccionDePoemas(WAComponent)>>accept:
+WARenderVisitor(WAVisitor)>>visit:
+WARenderingGuide(WAPresenterGuide)>>visitPainter:
+WARenderingGuide(WAPainterVisitor)>>visitPresenter:
+WARenderingGuide(WAPainterVisitor)>>visitComponent:
+WAConstruccionDePoemas(WAComponent)>>accept:
+WAConstruccionDePoemas(WAPresenter)>>renderUndecoratedWithContext:
+WAToolDecoration(WADecoration)>>renderNextOn:
+WAToolDecoration>>renderChildOn:
+WAToolDecoration>>renderContentOn:
+WARenderVisitor>>visitPainter:
+WARenderVisitor(WAPainterVisitor)>>visitPresenter:
+WARenderVisitor(WAPainterVisitor)>>visitDecoration:
+WAToolDecoration(WADecoration)>>accept:
+[0m[31mMessageNotUnderstood: Array>>renderOnComponent:withRenderer:
+[0mArray(Object)>>doesNotUnderstand: #renderOnComponent:withRenderer:
+[ model renderOnComponent: self withRenderer: html.
+html div class: 'clear' ] in WAConstruccionDePoemas>>renderContentOn: in Block: [ model renderOnComponent: self withRenderer: html...etc...
+BlockClosure>>renderOn:
+WAHtmlCanvas(WARenderer)>>render:
+WAHtmlCanvas(WACanvas)>>render:
+[ self before.
+canvas render: anObject.
+self after ] in WAGenericTag(WATagBrush)>>with: in Block: [ self before....
+BlockClosure>>renderOn:
+WAHtmlCanvas(WARenderer)>>render:
+WAHtmlCanvas(WACanvas)>>render:
+WAHtmlCanvas(WACanvas)>>nest:
+WAGenericTag(WABrush)>>with:
+WAGenericTag(WATagBrush)>>with:
+WAConstruccionDePoemas>>renderContentOn:
+WARenderVisitor>>visitPainter:
+WARenderVisitor(WAPainterVisitor)>>visitPresenter:
+WARenderVisitor(WAPainterVisitor)>>visitComponent:
+WAConstruccionDePoemas(WAComponent)>>accept:
+WARenderVisitor(WAVisitor)>>visit:
+WARenderingGuide(WAPresenterGuide)>>visitPainter:
+WARenderingGuide(WAPainterVisitor)>>visitPresenter:
+WARenderingGuide(WAPainterVisitor)>>visitComponent:
+WAConstruccionDePoemas(WAComponent)>>accept:
+WAConstruccionDePoemas(WAPresenter)>>renderUndecoratedWithContext:
+WAToolDecoration(WADecoration)>>renderNextOn:
+WAToolDecoration>>renderChildOn:
+WAToolDecoration>>renderContentOn:
+WARenderVisitor>>visitPainter:
+WARenderVisitor(WAPainterVisitor)>>visitPresenter:
+WARenderVisitor(WAPainterVisitor)>>visitDecoration:
+WAToolDecoration(WADecoration)>>accept:
+[0m[31mMessageNotUnderstood: receiver of "renderOnComponent:withRenderer:" is nil
+[0mUndefinedObject(Object)>>doesNotUnderstand: #renderOnComponent:withRenderer:
+[ imagenesAMostrar
+	renderOnComponent: (WAImagenes owner: self model: imagenesAMostrar)
+	withRenderer: html ] in WAConstruccionDePoemas>>renderImagenes:withRenderer: in Block: [ imagenesAMostrar...
+BlockClosure>>renderOn:
+WAHtmlCanvas(WARenderer)>>render:
+WAHtmlCanvas(WACanvas)>>render:
+[ self before.
+canvas render: anObject.
+self after ] in WAGenericTag(WATagBrush)>>with: in Block: [ self before....
+BlockClosure>>renderOn:
+WAHtmlCanvas(WARenderer)>>render:
+WAHtmlCanvas(WACanvas)>>render:
+WAHtmlCanvas(WACanvas)>>nest:
+WAGenericTag(WABrush)>>with:
+WAGenericTag(WATagBrush)>>with:
+WAConstruccionDePoemas>>renderImagenes:withRenderer:
+ConstruccionDePoemas>>renderOnComponent:withRenderer:
+[ model first renderOnComponent: self withRenderer: html.
+html div class: 'clear' ] in WAConstruccionDePoemas>>renderContentOn: in Block: [ model first renderOnComponent: self withRenderer...etc...
+BlockClosure>>renderOn:
+WAHtmlCanvas(WARenderer)>>render:
+WAHtmlCanvas(WACanvas)>>render:
+[ self before.
+canvas render: anObject.
+self after ] in WAGenericTag(WATagBrush)>>with: in Block: [ self before....
+BlockClosure>>renderOn:
+WAHtmlCanvas(WARenderer)>>render:
+WAHtmlCanvas(WACanvas)>>render:
+WAHtmlCanvas(WACanvas)>>nest:
+WAGenericTag(WABrush)>>with:
+WAGenericTag(WATagBrush)>>with:
+WAConstruccionDePoemas>>renderContentOn:
+WARenderVisitor>>visitPainter:
+WARenderVisitor(WAPainterVisitor)>>visitPresenter:
+WARenderVisitor(WAPainterVisitor)>>visitComponent:
+WAConstruccionDePoemas(WAComponent)>>accept:
+[0m[31mMessageNotUnderstood: WAConstruccionDePoemas>>renderName:in:
+[0mWAConstruccionDePoemas(Object)>>doesNotUnderstand: #renderName:in:
+Poema>>renderOnComponent:withRenderer:
+[ unPoema renderOnComponent: self withRenderer: html ] in WAConstruccionDePoemas>>renderPoemaConstruido:withRenderer: in Block: [ unPoema renderOnComponent: self withRenderer: ht...etc...
+BlockClosure>>renderOn:
+WAHtmlCanvas(WARenderer)>>render:
+WAHtmlCanvas(WACanvas)>>render:
+[ self before.
+canvas render: anObject.
+self after ] in WAGenericTag(WATagBrush)>>with: in Block: [ self before....
+BlockClosure>>renderOn:
+WAHtmlCanvas(WARenderer)>>render:
+WAHtmlCanvas(WACanvas)>>render:
+WAHtmlCanvas(WACanvas)>>nest:
+WAGenericTag(WABrush)>>with:
+WAGenericTag(WATagBrush)>>with:
+WAConstruccionDePoemas>>renderPoemaConstruido:withRenderer:
+ConstruccionDePoemas>>renderOnComponent:withRenderer:
+[ model first renderOnComponent: self withRenderer: html.
+html div class: 'clear' ] in WAConstruccionDePoemas>>renderContentOn: in Block: [ model first renderOnComponent: self withRenderer...etc...
+BlockClosure>>renderOn:
+WAHtmlCanvas(WARenderer)>>render:
+WAHtmlCanvas(WACanvas)>>render:
+[ self before.
+canvas render: anObject.
+self after ] in WAGenericTag(WATagBrush)>>with: in Block: [ self before....
+BlockClosure>>renderOn:
+WAHtmlCanvas(WARenderer)>>render:
+WAHtmlCanvas(WACanvas)>>render:
+WAHtmlCanvas(WACanvas)>>nest:
+WAGenericTag(WABrush)>>with:
+WAGenericTag(WATagBrush)>>with:
+WAConstruccionDePoemas>>renderContentOn:
+WARenderVisitor>>visitPainter:
+WARenderVisitor(WAPainterVisitor)>>visitPresenter:
+WARenderVisitor(WAPainterVisitor)>>visitComponent:
+[0m[31mMessageNotUnderstood: WAConstruccionDePoemas>>renderName:in:
+[0mWAConstruccionDePoemas(Object)>>doesNotUnderstand: #renderName:in:
+Poema>>renderOnComponent:withRenderer:
+[ unPoema renderOnComponent: self withRenderer: html ] in WAConstruccionDePoemas>>renderPoemaConstruido:withRenderer: in Block: [ unPoema renderOnComponent: self withRenderer: ht...etc...
+BlockClosure>>renderOn:
+WAHtmlCanvas(WARenderer)>>render:
+WAHtmlCanvas(WACanvas)>>render:
+[ self before.
+canvas render: anObject.
+self after ] in WAGenericTag(WATagBrush)>>with: in Block: [ self before....
+BlockClosure>>renderOn:
+WAHtmlCanvas(WARenderer)>>render:
+WAHtmlCanvas(WACanvas)>>render:
+WAHtmlCanvas(WACanvas)>>nest:
+WAGenericTag(WABrush)>>with:
+WAGenericTag(WATagBrush)>>with:
+WAConstruccionDePoemas>>renderPoemaConstruido:withRenderer:
+ConstruccionDePoemas>>renderOnComponent:withRenderer:
+[ model first renderOnComponent: self withRenderer: html.
+html div class: 'clear' ] in WAConstruccionDePoemas>>renderContentOn: in Block: [ model first renderOnComponent: self withRenderer...etc...
+BlockClosure>>renderOn:
+WAHtmlCanvas(WARenderer)>>render:
+WAHtmlCanvas(WACanvas)>>render:
+[ self before.
+canvas render: anObject.
+self after ] in WAGenericTag(WATagBrush)>>with: in Block: [ self before....
+BlockClosure>>renderOn:
+WAHtmlCanvas(WARenderer)>>render:
+WAHtmlCanvas(WACanvas)>>render:
+WAHtmlCanvas(WACanvas)>>nest:
+WAGenericTag(WABrush)>>with:
+WAGenericTag(WATagBrush)>>with:
+WAConstruccionDePoemas>>renderContentOn:
+WARenderVisitor>>visitPainter:
+WARenderVisitor(WAPainterVisitor)>>visitPresenter:
+WARenderVisitor(WAPainterVisitor)>>visitComponent:
+[0m>render:
+[ self before.
+canvas render: anObject.
+self after ] in WAGenericTag(WATagBrush)>>with: in Block: [ self before....
+BlockClosure>>renderOn:
+WAHtmlCanvas(WARenderer)>>render:
+WAHtmlCanvas(WACanvas)>>render:
+WAHtmlCanvas(WACanvas)>>nest:
+WAGenericTag(WABrush)>>with:
+WAGenericTag(WATagBrush)>>with:
+WAVersosAleatorios>>renderContentOn:
+WARenderVisitor>>visitPainter:
+WARenderVisitor(WAPainterVisitor)>>visitPresenter:
+WARenderVisitor(WAPainterVisitor)>>visitComponent:
+WAVersosAleatorios(WAComponent)>>accept:
+WARenderVisitor(WAVisitor)>>visit:
+WARenderingGuide(WAPresenterGuide)>>visitPainter:
+[0m[31mInstance of WAGenericTag did not understand #position
+[0mWAGenericTag(Object)>>doesNotUnderstand: #position
+WAVersosAleatorios>>DoItIn:
+OpalCompiler>>evaluate
+RubSmalltalkEditor>>evaluate:andDo:
+RubSmalltalkEditor>>highlightEvaluateAndDo:
+[ textMorph textArea editor highlightEvaluateAndDo: ann action.
+textMorph shoutStyler style: textMorph text ] in [ textMorph textArea
+	handleEdit: [ textMorph textArea editor highlightEvaluateAndDo: ann action.
+		textMorph shoutStyler style: textMorph text ] ] in GLMMorphicPharoMethodRenderer(GLMMorphicPharoCodeRenderer)>>actOnHighlightAndEvaluate: in Block: [ textMorph textArea editor highlightEvaluateAndDo...etc...
+RubEditingArea(RubAbstractTextArea)>>handleEdit:
+[ textMorph textArea
+	handleEdit: [ textMorph textArea editor highlightEvaluateAndDo: ann action.
+		textMorph shoutStyler style: textMorph text ] ] in GLMMorphicPharoMethodRenderer(GLMMorphicPharoCodeRenderer)>>actOnHighlightAndEvaluate: in Block: [ textMorph textArea...
+WorldState>>runStepMethodsIn:
+WorldMorph>>runStepMethods
+WorldState>>doOneCycleNowFor:
+WorldState>>doOneCycleFor:
+WorldMorph>>doOneCycle
+WorldMorph class>>doOneCycle
+[ [ WorldMorph doOneCycle.
+Processor yield.
+false ] whileFalse: [  ] ] in MorphicUIManager>>spawnNewProcess in Block: [ [ WorldMorph doOneCycle....
+[ self value.
+Processor terminateActive ] in BlockClosure>>newProcess in Block: [ self value....
+[0m[31mWAError: only integers should be used as indices
+[0mWAGenericTag class(GRObject class)>>error:
+WAGenericTag(GRObject)>>error:
+WAGenericTag(Object)>>errorNonIntegerIndex
+WAGenericTag(Object)>>at:
+WAVersosAleatorios>>DoItIn:
+OpalCompiler>>evaluate
+RubSmalltalkEditor>>evaluate:andDo:
+RubSmalltalkEditor>>highlightEvaluateAndDo:
+[ textMorph textArea editor highlightEvaluateAndDo: ann action.
+textMorph shoutStyler style: textMorph text ] in [ textMorph textArea
+	handleEdit: [ textMorph textArea editor highlightEvaluateAndDo: ann action.
+		textMorph shoutStyler style: textMorph text ] ] in GLMMorphicPharoMethodRenderer(GLMMorphicPharoCodeRenderer)>>actOnHighlightAndEvaluate: in Block: [ textMorph textArea editor highlightEvaluateAndDo...etc...
+RubEditingArea(RubAbstractTextArea)>>handleEdit:
+[ textMorph textArea
+	handleEdit: [ textMorph textArea editor highlightEvaluateAndDo: ann action.
+		textMorph shoutStyler style: textMorph text ] ] in GLMMorphicPharoMethodRenderer(GLMMorphicPharoCodeRenderer)>>actOnHighlightAndEvaluate: in Block: [ textMorph textArea...
+WorldState>>runStepMethodsIn:
+WorldMorph>>runStepMethods
+WorldState>>doOneCycleNowFor:
+WorldState>>doOneCycleFor:
+WorldMorph>>doOneCycle
+WorldMorph class>>doOneCycle
+[ [ WorldMorph doOneCycle.
+Processor yield.
+false ] whileFalse: [  ] ] in MorphicUIManager>>spawnNewProcess in Block: [ [ WorldMorph doOneCycle....
+[ self value.
+Processor terminateActive ] in BlockClosure>>newProcess in Block: [ self value....
+[0m[31mWAError: only integers should be used as indices
+[0mWAGenericTag class(GRObject class)>>error:
+WAGenericTag(GRObject)>>error:
+WAGenericTag(Object)>>errorNonIntegerIndex
+WAGenericTag(Object)>>at:
+WAVersosAleatorios>>renderVerso:on:
+Verso>>renderOnComponent:withRenderer:
+[ :verso | verso renderOnComponent: self withRenderer: html ] in WAVersosAleatorios>>renderVersos:in: in Block: [ :verso | verso renderOnComponent: self withRende...etc...
+OrderedCollection>>do:
+WAVersosAleatorios>>renderVersos:in:
+Poema>>renderOnComponent:withRenderer:
+WAVersosAleatorios>>renderPoemaConstruido:withRenderer:
+ConstruccionDePoemas>>renderOnComponent:withRenderer:
+[ model renderOnComponent: self withRenderer: html.
+html div class: 'clear' ] in WAVersosAleatorios>>renderContentOn: in Block: [ model renderOnComponent: self withRenderer: html...etc...
+BlockClosure>>renderOn:
+WAHtmlCanvas(WARenderer)>>render:
+WAHtmlCanvas(WACanvas)>>render:
+[ self before.
+canvas render: anObject.
+self after ] in WAGenericTag(WATagBrush)>>with: in Block: [ self before....
+BlockClosure>>renderOn:
+WAHtmlCanvas(WARenderer)>>render:
+WAHtmlCanvas(WACanvas)>>render:
+WAHtmlCanvas(WACanvas)>>nest:
+WAGenericTag(WABrush)>>with:
+WAGenericTag(WATagBrush)>>with:
+WAVersosAleatorios>>renderContentOn:
+WARenderVisitor>>visitPainter:
+WARenderVisitor(WAPainterVisitor)>>visitPresenter:
+WARenderVisitor(WAPainterVisitor)>>visitComponent:
+WAVersosAleatorios(WAComponent)>>accept:
+WARenderVisitor(WAVisitor)>>visit:
+WARenderingGuide(WAPresenterGuide)>>visitPainter:
+[0m[31mInstance of WAGenericTag did not understand #style
+[0mWAGenericTag(Object)>>doesNotUnderstand: #style
+WAVersosAleatorios>>DoItIn:
+OpalCompiler>>evaluate
+RubSmalltalkEditor>>evaluate:andDo:
+RubSmalltalkEditor>>highlightEvaluateAndDo:
+[ textMorph textArea editor highlightEvaluateAndDo: ann action.
+textMorph shoutStyler style: textMorph text ] in [ textMorph textArea
+	handleEdit: [ textMorph textArea editor highlightEvaluateAndDo: ann action.
+		textMorph shoutStyler style: textMorph text ] ] in GLMMorphicPharoMethodRenderer(GLMMorphicPharoCodeRenderer)>>actOnHighlightAndEvaluate: in Block: [ textMorph textArea editor highlightEvaluateAndDo...etc...
+RubEditingArea(RubAbstractTextArea)>>handleEdit:
+[ textMorph textArea
+	handleEdit: [ textMorph textArea editor highlightEvaluateAndDo: ann action.
+		textMorph shoutStyler style: textMorph text ] ] in GLMMorphicPharoMethodRenderer(GLMMorphicPharoCodeRenderer)>>actOnHighlightAndEvaluate: in Block: [ textMorph textArea...
+WorldState>>runStepMethodsIn:
+WorldMorph>>runStepMethods
+WorldState>>doOneCycleNowFor:
+WorldState>>doOneCycleFor:
+WorldMorph>>doOneCycle
+WorldMorph class>>doOneCycle
+[ [ WorldMorph doOneCycle.
+Processor yield.
+false ] whileFalse: [  ] ] in MorphicUIManager>>spawnNewProcess in Block: [ [ WorldMorph doOneCycle....
+[ self value.
+Processor terminateActive ] in BlockClosure>>newProcess in Block: [ self value....
+[0m[31mMessageNotUnderstood: WAGenericTag>>propertyAt:put:
+[0mWAGenericTag(Object)>>doesNotUnderstand: #propertyAt:put:
+WAVersosAleatorios>>renderVerso:on:
+Verso>>renderOnComponent:withRenderer:
+[ :verso | verso renderOnComponent: self withRenderer: html ] in WAVersosAleatorios>>renderVersos:in: in Block: [ :verso | verso renderOnComponent: self withRende...etc...
+OrderedCollection>>do:
+WAVersosAleatorios>>renderVersos:in:
+Poema>>renderOnComponent:withRenderer:
+WAVersosAleatorios>>renderPoemaConstruido:withRenderer:
+ConstruccionDePoemas>>renderOnComponent:withRenderer:
+[ model renderOnComponent: self withRenderer: html.
+html div class: 'clear' ] in WAVersosAleatorios>>renderContentOn: in Block: [ model renderOnComponent: self withRenderer: html...etc...
+BlockClosure>>renderOn:
+WAHtmlCanvas(WARenderer)>>render:
+WAHtmlCanvas(WACanvas)>>render:
+[ self before.
+canvas render: anObject.
+self after ] in WAGenericTag(WATagBrush)>>with: in Block: [ self before....
+BlockClosure>>renderOn:
+WAHtmlCanvas(WARenderer)>>render:
+WAHtmlCanvas(WACanvas)>>render:
+WAHtmlCanvas(WACanvas)>>nest:
+WAGenericTag(WABrush)>>with:
+WAGenericTag(WATagBrush)>>with:
+WAVersosAleatorios>>renderContentOn:
+WARenderVisitor>>visitPainter:
+WARenderVisitor(WAPainterVisitor)>>visitPresenter:
+WARenderVisitor(WAPainterVisitor)>>visitComponent:
+WAVersosAleatorios(WAComponent)>>accept:
+WARenderVisitor(WAVisitor)>>visit:
+WARenderingGuide(WAPresenterGuide)>>visitPainter:
+WARenderingGuide(WAPainterVisitor)>>visitPresenter:
+WARenderingGuide(WAPainterVisitor)>>visitComponent:
+WAVersosAleatorios(WAComponent)>>accept:
+[0m[31mMessageNotUnderstood: Verso>>palabras
+[0mVerso(Object)>>doesNotUnderstand: #palabras
+[ unVerso palabras
+	do: [ :palabra | palabra renderOn: self withRenderer: html ] ] in WAVersosAleatorios>>renderVerso:on: in Block: [ unVerso palabras...
+BlockClosure>>renderOn:
+WAHtmlCanvas(WARenderer)>>render:
+WAHtmlCanvas(WACanvas)>>render:
+[ self before.
+canvas render: anObject.
+self after ] in WAGenericTag(WATagBrush)>>with: in Block: [ self before....
+BlockClosure>>renderOn:
+WAHtmlCanvas(WARenderer)>>render:
+WAHtmlCanvas(WACanvas)>>render:
+WAHtmlCanvas(WACanvas)>>nest:
+WAGenericTag(WABrush)>>with:
+WAGenericTag(WATagBrush)>>with:
+WAVersosAleatorios>>renderVerso:on:
+Verso>>renderOnComponent:withRenderer:
+[ :verso | verso renderOnComponent: self withRenderer: html ] in WAVersosAleatorios>>renderVersos:in: in Block: [ :verso | verso renderOnComponent: self withRende...etc...
+OrderedCollection>>do:
+WAVersosAleatorios>>renderVersos:in:
+Poema>>renderOnComponent:withRenderer:
+WAVersosAleatorios>>renderPoemaConstruido:withRenderer:
+ConstruccionDePoemas>>renderOnComponent:withRenderer:
+[ model renderOnComponent: self withRenderer: html.
+html div class: 'clear' ] in WAVersosAleatorios>>renderContentOn: in Block: [ model renderOnComponent: self withRenderer: html...etc...
+BlockClosure>>renderOn:
+WAHtmlCanvas(WARenderer)>>render:
+WAHtmlCanvas(WACanvas)>>render:
+[ self before.
+canvas render: anObject.
+self after ] in WAGenericTag(WATagBrush)>>with: in Block: [ self before....
+BlockClosure>>renderOn:
+WAHtmlCanvas(WARenderer)>>render:
+WAHtmlCanvas(WACanvas)>>render:
+WAHtmlCanvas(WACanvas)>>nest:
+WAGenericTag(WABrush)>>with:
+[0m[31mMessageNotUnderstood: PalabraVacia>>renderOn:withRenderer:
+[0mPalabraVacia(Object)>>doesNotUnderstand: #renderOn:withRenderer:
+[ :palabra | palabra renderOn: self withRenderer: html ] in [ unVerso palabras
+	do: [ :palabra | palabra renderOn: self withRenderer: html ] ] in WAVersosAleatorios>>renderVerso:on: in Block: [ :palabra | palabra renderOn: self withRenderer: ...etc...
+OrderedCollection>>do:
+[ unVerso palabras
+	do: [ :palabra | palabra renderOn: self withRenderer: html ] ] in WAVersosAleatorios>>renderVerso:on: in Block: [ unVerso palabras...
+BlockClosure>>renderOn:
+WAHtmlCanvas(WARenderer)>>render:
+WAHtmlCanvas(WACanvas)>>render:
+[ self before.
+canvas render: anObject.
+self after ] in WAGenericTag(WATagBrush)>>with: in Block: [ self before....
+BlockClosure>>renderOn:
+WAHtmlCanvas(WARenderer)>>render:
+WAHtmlCanvas(WACanvas)>>render:
+WAHtmlCanvas(WACanvas)>>nest:
+WAGenericTag(WABrush)>>with:
+WAGenericTag(WATagBrush)>>with:
+WAVersosAleatorios>>renderVerso:on:
+Verso>>renderOnComponent:withRenderer:
+[ :verso | verso renderOnComponent: self withRenderer: html ] in WAVersosAleatorios>>renderVersos:in: in Block: [ :verso | verso renderOnComponent: self withRende...etc...
+OrderedCollection>>do:
+WAVersosAleatorios>>renderVersos:in:
+Poema>>renderOnComponent:withRenderer:
+WAVersosAleatorios>>renderPoemaConstruido:withRenderer:
+ConstruccionDePoemas>>renderOnComponent:withRenderer:
+[ model renderOnComponent: self withRenderer: html.
+html div class: 'clear' ] in WAVersosAleatorios>>renderContentOn: in Block: [ model renderOnComponent: self withRenderer: html...etc...
+BlockClosure>>renderOn:
+WAHtmlCanvas(WARenderer)>>render:
+WAHtmlCanvas(WACanvas)>>render:
+[ self before.
+canvas render: anObject.
+self after ] in WAGenericTag(WATagBrush)>>with: in Block: [ self before....
+BlockClosure>>renderOn:
+WAHtmlCanvas(WARenderer)>>render:
+WAHtmlCanvas(WACanvas)>>render:
+[0m[31mMessageNotUnderstood: WAVersosAleatorios>>renderPalabra:withRenderer:
+[0mWAVersosAleatorios(Object)>>doesNotUnderstand: #renderPalabra:withRenderer:
+PalabraReal>>renderOnComponent:withRenderer:
+[ :palabra | palabra renderOnComponent: self withRenderer: html ] in [ unVerso palabras
+	do: [ :palabra | palabra renderOnComponent: self withRenderer: html ] ] in WAVersosAleatorios>>renderVerso:on: in Block: [ :palabra | palabra renderOnComponent: self withR...etc...
+OrderedCollection>>do:
+[ unVerso palabras
+	do: [ :palabra | palabra renderOnComponent: self withRenderer: html ] ] in WAVersosAleatorios>>renderVerso:on: in Block: [ unVerso palabras...
+BlockClosure>>renderOn:
+WAHtmlCanvas(WARenderer)>>render:
+WAHtmlCanvas(WACanvas)>>render:
+[ self before.
+canvas render: anObject.
+self after ] in WAGenericTag(WATagBrush)>>with: in Block: [ self before....
+BlockClosure>>renderOn:
+WAHtmlCanvas(WARenderer)>>render:
+WAHtmlCanvas(WACanvas)>>render:
+WAHtmlCanvas(WACanvas)>>nest:
+WAGenericTag(WABrush)>>with:
+WAGenericTag(WATagBrush)>>with:
+WAVersosAleatorios>>renderVerso:on:
+Verso>>renderOnComponent:withRenderer:
+[ :verso | verso renderOnComponent: self withRenderer: html ] in WAVersosAleatorios>>renderVersos:in: in Block: [ :verso | verso renderOnComponent: self withRende...etc...
+OrderedCollection>>do:
+WAVersosAleatorios>>renderVersos:in:
+Poema>>renderOnComponent:withRenderer:
+WAVersosAleatorios>>renderPoemaConstruido:withRenderer:
+ConstruccionDePoemas>>renderOnComponent:withRenderer:
+[ model renderOnComponent: self withRenderer: html.
+html div class: 'clear' ] in WAVersosAleatorios>>renderContentOn: in Block: [ model renderOnComponent: self withRenderer: html...etc...
+BlockClosure>>renderOn:
+WAHtmlCanvas(WARenderer)>>render:
+WAHtmlCanvas(WACanvas)>>render:
+[ self before.
+canvas render: anObject.
+self after ] in WAGenericTag(WATagBrush)>>with: in Block: [ self before....
+BlockClosure>>renderOn:
+WAHtmlCanvas(WARenderer)>>render:
+[0m[31mMessageNotUnderstood: WAVersosAleatorios>>agregarVersoConPalabra:
+[0mWAVersosAleatorios(Object)>>doesNotUnderstand: #agregarVersoConPalabra:
+[ self agregarVersoConPalabra: unaPalabraReal ] in WAVersosAleatorios>>renderPalabra:withRenderer: in Block: [ self agregarVersoConPalabra: unaPalabraReal ]
+BlockClosure>>valueWithPossibleArguments:
+WAActionCallback>>evaluateWithArgument:
+WAActionCallback(WACallback)>>evaluateWithFieldValues:
+[ :callback | callback evaluateWithFieldValues: (fields allAt: callback key) ] in WACallbackRegistry>>handle: in Block: [ :callback | callback evaluateWithFieldValues: (f...etc...
+Array(SequenceableCollection)>>do:
+WACallbackRegistry>>handle:
+WACallbackProcessingActionContinuation>>basicPerformAction
+[ self basicPerformAction ] in WACallbackProcessingActionContinuation(WAActionPhaseContinuation)>>performAction in Block: [ self basicPerformAction ]
+BlockClosure>>on:do:
+WAWalkbackErrorHandler(WAExceptionHandler)>>handleExceptionsDuring:
+[ currentHandler handleExceptionsDuring: aBlock ] in WACallbackProcessingActionContinuation(WARenderLoopContinuation)>>withNotificationHandlerDo: in Block: [ currentHandler handleExceptionsDuring: aBlock ]
+BlockClosure>>on:do:
+WACallbackProcessingActionContinuation(WARenderLoopContinuation)>>withNotificationHandlerDo:
+WACallbackProcessingActionContinuation(WAActionPhaseContinuation)>>performAction
+[ super performAction ] in WACallbackProcessingActionContinuation>>performAction in Block: [ super performAction ]
+BlockClosure>>ensure:
+WACallbackProcessingActionContinuation>>performAction
+WACallbackProcessingActionContinuation(WAActionPhaseContinuation)>>handleFiltered:
+[ self filter handleFiltered: aRequestContext ] in WACallbackProcessingActionContinuation(WARequestHandler)>>handle: in Block: [ self filter handleFiltered: aRequestContext ]
+[ activeProcess psValueAt: index put: anObject.
+aBlock value ] in WACurrentRequestContext(DynamicVariable)>>value:during: in Block: [ activeProcess psValueAt: index put: anObject....
+BlockClosure>>ensure:
+WACurrentRequestContext(DynamicVariable)>>value:during:
+WACurrentRequestContext class(DynamicVariable class)>>value:during:
+WACurrentRequestContext class(GRDynamicVariable class)>>use:during:
+[ WACurrentRequestContext use: self during: aBlock ] in WARequestContext>>push:during: in Block: [ WACurrentRequestContext use: self during: aBlock...etc...
+BlockClosure>>ensure:
+WARequestContext>>push:during:
+WACallbackProcessingActionContinuation(WARequestHandler)>>handle:
+[0m[31mBreak
+[0mPalabraVacia>>renderOnComponent:withRenderer:
+[ :palabra | palabra renderOnComponent: self withRenderer: html ] in [ unVerso palabras
+	do: [ :palabra | palabra renderOnComponent: self withRenderer: html ] ] in WAVersosAleatorios>>renderVerso:on: in Block: [ :palabra | palabra renderOnComponent: self withR...etc...
+OrderedCollection>>do:
+[ unVerso palabras
+	do: [ :palabra | palabra renderOnComponent: self withRenderer: html ] ] in WAVersosAleatorios>>renderVerso:on: in Block: [ unVerso palabras...
+BlockClosure>>renderOn:
+WAHtmlCanvas(WARenderer)>>render:
+WAHtmlCanvas(WACanvas)>>render:
+[ self before.
+canvas render: anObject.
+self after ] in WAGenericTag(WATagBrush)>>with: in Block: [ self before....
+BlockClosure>>renderOn:
+WAHtmlCanvas(WARenderer)>>render:
+WAHtmlCanvas(WACanvas)>>render:
+WAHtmlCanvas(WACanvas)>>nest:
+WAGenericTag(WABrush)>>with:
+WAGenericTag(WATagBrush)>>with:
+WAVersosAleatorios>>renderVerso:on:
+Verso>>renderOnComponent:withRenderer:
+[ :verso | verso renderOnComponent: self withRenderer: html ] in WAVersosAleatorios>>renderVersos:in: in Block: [ :verso | verso renderOnComponent: self withRende...etc...
+OrderedCollection>>do:
+WAVersosAleatorios>>renderVersos:in:
+Poema>>renderOnComponent:withRenderer:
+WAVersosAleatorios>>renderPoemaConstruido:withRenderer:
+ConstruccionDePoemas>>renderOnComponent:withRenderer:
+[ model renderOnComponent: self withRenderer: html.
+html div class: 'clear' ] in WAVersosAleatorios>>renderContentOn: in Block: [ model renderOnComponent: self withRenderer: html...etc...
+BlockClosure>>renderOn:
+WAHtmlCanvas(WARenderer)>>render:
+WAHtmlCanvas(WACanvas)>>render:
+[ self before.
+canvas render: anObject.
+self after ] in WAGenericTag(WATagBrush)>>with: in Block: [ self before....
+BlockClosure>>renderOn:
+WAHtmlCanvas(WARenderer)>>render:
+WAHtmlCanvas(WACanvas)>>render:
+[0m[31mBreak
+[0mPalabraVacia>>renderOnComponent:withRenderer:
+[ :palabra | palabra renderOnComponent: self withRenderer: html ] in [ unVerso palabras
+	do: [ :palabra | palabra renderOnComponent: self withRenderer: html ] ] in WAVersosAleatorios>>renderVerso:on: in Block: [ :palabra | palabra renderOnComponent: self withR...etc...
+OrderedCollection>>do:
+[ unVerso palabras
+	do: [ :palabra | palabra renderOnComponent: self withRenderer: html ] ] in WAVersosAleatorios>>renderVerso:on: in Block: [ unVerso palabras...
+BlockClosure>>renderOn:
+WAHtmlCanvas(WARenderer)>>render:
+WAHtmlCanvas(WACanvas)>>render:
+[ self before.
+canvas render: anObject.
+self after ] in WAGenericTag(WATagBrush)>>with: in Block: [ self before....
+BlockClosure>>renderOn:
+WAHtmlCanvas(WARenderer)>>render:
+WAHtmlCanvas(WACanvas)>>render:
+WAHtmlCanvas(WACanvas)>>nest:
+WAGenericTag(WABrush)>>with:
+WAGenericTag(WATagBrush)>>with:
+WAVersosAleatorios>>renderVerso:on:
+Verso>>renderOnComponent:withRenderer:
+[ :verso | verso renderOnComponent: self withRenderer: html ] in WAVersosAleatorios>>renderVersos:in: in Block: [ :verso | verso renderOnComponent: self withRende...etc...
+OrderedCollection>>do:
+WAVersosAleatorios>>renderVersos:in:
+Poema>>renderOnComponent:withRenderer:
+WAVersosAleatorios>>renderPoemaConstruido:withRenderer:
+ConstruccionDePoemas>>renderOnComponent:withRenderer:
+[ model renderOnComponent: self withRenderer: html.
+html div class: 'clear' ] in WAVersosAleatorios>>renderContentOn: in Block: [ model renderOnComponent: self withRenderer: html...etc...
+BlockClosure>>renderOn:
+WAHtmlCanvas(WARenderer)>>render:
+WAHtmlCanvas(WACanvas)>>render:
+[ self before.
+canvas render: anObject.
+self after ] in WAGenericTag(WATagBrush)>>with: in Block: [ self before....
+BlockClosure>>renderOn:
+WAHtmlCanvas(WARenderer)>>render:
+WAHtmlCanvas(WACanvas)>>render:
+[0m[31mBreak
+[0mPalabraVacia>>renderOnComponent:withRenderer:
+[ :palabra | palabra renderOnComponent: self withRenderer: html ] in [ unVerso palabras
+	do: [ :palabra | palabra renderOnComponent: self withRenderer: html ] ] in WAVersosAleatorios>>renderVerso:on: in Block: [ :palabra | palabra renderOnComponent: self withR...etc...
+OrderedCollection>>do:
+[ unVerso palabras
+	do: [ :palabra | palabra renderOnComponent: self withRenderer: html ] ] in WAVersosAleatorios>>renderVerso:on: in Block: [ unVerso palabras...
+BlockClosure>>renderOn:
+WAHtmlCanvas(WARenderer)>>render:
+WAHtmlCanvas(WACanvas)>>render:
+[ self before.
+canvas render: anObject.
+self after ] in WAGenericTag(WATagBrush)>>with: in Block: [ self before....
+BlockClosure>>renderOn:
+WAHtmlCanvas(WARenderer)>>render:
+WAHtmlCanvas(WACanvas)>>render:
+WAHtmlCanvas(WACanvas)>>nest:
+WAGenericTag(WABrush)>>with:
+WAGenericTag(WATagBrush)>>with:
+WAVersosAleatorios>>renderVerso:on:
+Verso>>renderOnComponent:withRenderer:
+[ :verso | verso renderOnComponent: self withRenderer: html ] in WAVersosAleatorios>>renderVersos:in: in Block: [ :verso | verso renderOnComponent: self withRende...etc...
+OrderedCollection>>do:
+WAVersosAleatorios>>renderVersos:in:
+Poema>>renderOnComponent:withRenderer:
+WAVersosAleatorios>>renderPoemaConstruido:withRenderer:
+ConstruccionDePoemas>>renderOnComponent:withRenderer:
+[ model renderOnComponent: self withRenderer: html.
+html div class: 'clear' ] in WAVersosAleatorios>>renderContentOn: in Block: [ model renderOnComponent: self withRenderer: html...etc...
+BlockClosure>>renderOn:
+WAHtmlCanvas(WARenderer)>>render:
+WAHtmlCanvas(WACanvas)>>render:
+[ self before.
+canvas render: anObject.
+self after ] in WAGenericTag(WATagBrush)>>with: in Block: [ self before....
+BlockClosure>>renderOn:
+WAHtmlCanvas(WARenderer)>>render:
+WAHtmlCanvas(WACanvas)>>render:
+[0m[31mMessageNotUnderstood: ConstruccionDePoemas>>versosDePoemaConstruido
+[0mConstruccionDePoemas(Object)>>doesNotUnderstand: #versosDePoemaConstruido
+WAVersosAleatorios>>versosStyles
+WAVersosAleatorios>>style
+WAVersosAleatorios(WAPresenter)>>updateRoot:
+WAVersosAleatorios>>updateRoot:
+WAUpdateRootVisitor>>visitPainter:
+WAUpdateRootVisitor(WAPainterVisitor)>>visitPresenter:
+WAUpdateRootVisitor(WAPainterVisitor)>>visitComponent:
+WAVersosAleatorios(WAComponent)>>accept:
+WAUpdateRootVisitor(WAVisitor)>>visit:
+WAVisiblePresenterGuide(WAPresenterGuide)>>visitPainter:
+WAVisiblePresenterGuide(WAPainterVisitor)>>visitPresenter:
+WAVisiblePresenterGuide>>visitPresenter:
+WAVisiblePresenterGuide(WAPainterVisitor)>>visitComponent:
+WAVersosAleatorios(WAComponent)>>accept:
+WAVisiblePresenterGuide>>visitDecoration:
+WAToolDecoration(WADecoration)>>accept:
+WAVisiblePresenterGuide(WAPainterVisitor)>>visitDecorationsOfComponent:
+WAVersosAleatorios(WAComponent)>>acceptDecorated:
+WAVisiblePresenterGuide(WAPresenterGuide)>>visit:
+WAVisiblePresenterGuide(WAVisitor)>>start:
+WARenderPhaseContinuation(WARenderLoopContinuation)>>toPresenterSendRoot:
+WARenderPhaseContinuation>>processRendering:
+[ :response | self processRendering: response ] in WARenderPhaseContinuation>>handleFiltered: in Block: [ :response | self processRendering: response ]
+WARequestContext>>respond:
+WARenderPhaseContinuation(WASessionContinuation)>>respond:
+WARenderPhaseContinuation>>handleFiltered:
+[ self filter handleFiltered: aRequestContext ] in WARenderPhaseContinuation(WARequestHandler)>>handle: in Block: [ self filter handleFiltered: aRequestContext ]
+[ activeProcess psValueAt: index put: anObject.
+aBlock value ] in WACurrentRequestContext(DynamicVariable)>>value:during: in Block: [ activeProcess psValueAt: index put: anObject....
+BlockClosure>>ensure:
+[0m[31mWAError: Instances of WAVersosAleatorios are not indexable
+[0mWAVersosAleatorios class(GRObject class)>>error:
+WAVersosAleatorios(GRObject)>>error:
+WAVersosAleatorios(Object)>>errorNotIndexable
+WAVersosAleatorios(Object)>>size
+ByteString(SequenceableCollection)>>copyReplaceFrom:to:with:
+ByteString(SequenceableCollection)>>,
+[ :string :verso | string , self styleDeVerso: verso ] in WAVersosAleatorios>>versosStyles in Block: [ :string :verso | string , self styleDeVerso: ver...etc...
+[ :each | nextValue := binaryBlock value: nextValue value: each ] in OrderedCollection(Collection)>>inject:into: in Block: [ :each | nextValue := binaryBlock value: nextValu...etc...
+OrderedCollection>>do:
+OrderedCollection(Collection)>>inject:into:
+WAVersosAleatorios>>versosStyles
+WAVersosAleatorios>>style
+WAVersosAleatorios(WAPresenter)>>updateRoot:
+WAVersosAleatorios>>updateRoot:
+WAUpdateRootVisitor>>visitPainter:
+WAUpdateRootVisitor(WAPainterVisitor)>>visitPresenter:
+WAUpdateRootVisitor(WAPainterVisitor)>>visitComponent:
+WAVersosAleatorios(WAComponent)>>accept:
+WAUpdateRootVisitor(WAVisitor)>>visit:
+WAVisiblePresenterGuide(WAPresenterGuide)>>visitPainter:
+WAVisiblePresenterGuide(WAPainterVisitor)>>visitPresenter:
+WAVisiblePresenterGuide>>visitPresenter:
+WAVisiblePresenterGuide(WAPainterVisitor)>>visitComponent:
+WAVersosAleatorios(WAComponent)>>accept:
+WAVisiblePresenterGuide>>visitDecoration:
+WAToolDecoration(WADecoration)>>accept:
+WAVisiblePresenterGuide(WAPainterVisitor)>>visitDecorationsOfComponent:
+WAVersosAleatorios(WAComponent)>>acceptDecorated:
+WAVisiblePresenterGuide(WAPresenterGuide)>>visit:
+WAVisiblePresenterGuide(WAVisitor)>>start:
+[0m[31mMessageNotUnderstood: WAVersosAleatorios>>styleDeVerso:
+[0mWAVersosAleatorios(Object)>>doesNotUnderstand: #styleDeVerso:
+[ :string :verso | string , (self styleDeVerso: verso) ] in WAVersosAleatorios>>versosStyles in Block: [ :string :verso | string , (self styleDeVerso: ve...etc...
+[ :each | nextValue := binaryBlock value: nextValue value: each ] in OrderedCollection(Collection)>>inject:into: in Block: [ :each | nextValue := binaryBlock value: nextValu...etc...
+OrderedCollection>>do:
+OrderedCollection(Collection)>>inject:into:
+WAVersosAleatorios>>versosStyles
+WAVersosAleatorios>>style
+WAVersosAleatorios(WAPresenter)>>updateRoot:
+WAVersosAleatorios>>updateRoot:
+WAUpdateRootVisitor>>visitPainter:
+WAUpdateRootVisitor(WAPainterVisitor)>>visitPresenter:
+WAUpdateRootVisitor(WAPainterVisitor)>>visitComponent:
+WAVersosAleatorios(WAComponent)>>accept:
+WAUpdateRootVisitor(WAVisitor)>>visit:
+WAVisiblePresenterGuide(WAPresenterGuide)>>visitPainter:
+WAVisiblePresenterGuide(WAPainterVisitor)>>visitPresenter:
+WAVisiblePresenterGuide>>visitPresenter:
+WAVisiblePresenterGuide(WAPainterVisitor)>>visitComponent:
+WAVersosAleatorios(WAComponent)>>accept:
+WAVisiblePresenterGuide>>visitDecoration:
+WAToolDecoration(WADecoration)>>accept:
+WAVisiblePresenterGuide(WAPainterVisitor)>>visitDecorationsOfComponent:
+WAVersosAleatorios(WAComponent)>>acceptDecorated:
+WAVisiblePresenterGuide(WAPresenterGuide)>>visit:
+WAVisiblePresenterGuide(WAVisitor)>>start:
+WARenderPhaseContinuation(WARenderLoopContinuation)>>toPresenterSendRoot:
+WARenderPhaseContinuation>>processRendering:
+[ :response | self processRendering: response ] in WARenderPhaseContinuation>>handleFiltered: in Block: [ :response | self processRendering: response ]
+WARequestContext>>respond:
+WARenderPhaseContinuation(WASessionContinuation)>>respond:
+[0m[31mInstance of Verso did not understand #id
+[0mVerso(Object)>>doesNotUnderstand: #id
+WAVersosAleatorios>>DoItIn:
+OpalCompiler>>evaluate
+RubSmalltalkEditor>>evaluate:andDo:
+RubSmalltalkEditor>>highlightEvaluateAndDo:
+[ textMorph textArea editor highlightEvaluateAndDo: ann action.
+textMorph shoutStyler style: textMorph text ] in [ textMorph textArea
+	handleEdit: [ textMorph textArea editor highlightEvaluateAndDo: ann action.
+		textMorph shoutStyler style: textMorph text ] ] in GLMMorphicPharoMethodRenderer(GLMMorphicPharoCodeRenderer)>>actOnHighlightAndEvaluate: in Block: [ textMorph textArea editor highlightEvaluateAndDo...etc...
+RubEditingArea(RubAbstractTextArea)>>handleEdit:
+[ textMorph textArea
+	handleEdit: [ textMorph textArea editor highlightEvaluateAndDo: ann action.
+		textMorph shoutStyler style: textMorph text ] ] in GLMMorphicPharoMethodRenderer(GLMMorphicPharoCodeRenderer)>>actOnHighlightAndEvaluate: in Block: [ textMorph textArea...
+WorldState>>runStepMethodsIn:
+WorldMorph>>runStepMethods
+WorldState>>doOneCycleNowFor:
+WorldState>>doOneCycleFor:
+WorldMorph>>doOneCycle
+WorldMorph class>>doOneCycle
+[ [ WorldMorph doOneCycle.
+Processor yield.
+false ] whileFalse: [  ] ] in MorphicUIManager>>spawnNewProcess in Block: [ [ WorldMorph doOneCycle....
+[ self value.
+Processor terminateActive ] in BlockClosure>>newProcess in Block: [ self value....
+[0m[31mError: Instances of SmallInteger are not indexable
+[0mSmallInteger(Object)>>error:
+SmallInteger(Object)>>errorNotIndexable
+SmallInteger(Object)>>size
+ByteString(SequenceableCollection)>>copyReplaceFrom:to:with:
+ByteString(SequenceableCollection)>>,
+JQueryInstance>>id:
+JQDraggable(JQPlugin)>>id:
+WAGenericTag(WATagBrush)>>script:
+WAVersosAleatorios>>renderVerso:withRenderer:
+Verso>>renderOnComponent:withRenderer:
+[ :verso | verso renderOnComponent: self withRenderer: html ] in WAVersosAleatorios>>renderVersos:withRenderer: in Block: [ :verso | verso renderOnComponent: self withRende...etc...
+OrderedCollection>>do:
+WAVersosAleatorios>>renderVersos:withRenderer:
+Poema>>renderOnComponent:withRenderer:
+WAVersosAleatorios>>renderPoemaConstruido:withRenderer:
+ConstruccionDePoemas>>renderOnComponent:withRenderer:
+[ model renderOnComponent: self withRenderer: html.
+html div class: 'clear' ] in WAVersosAleatorios>>renderContentOn: in Block: [ model renderOnComponent: self withRenderer: html...etc...
+BlockClosure>>renderOn:
+WAHtmlCanvas(WARenderer)>>render:
+WAHtmlCanvas(WACanvas)>>render:
+[ self before.
+canvas render: anObject.
+self after ] in WAGenericTag(WATagBrush)>>with: in Block: [ self before....
+BlockClosure>>renderOn:
+WAHtmlCanvas(WARenderer)>>render:
+WAHtmlCanvas(WACanvas)>>render:
+WAHtmlCanvas(WACanvas)>>nest:
+WAGenericTag(WABrush)>>with:
+WAGenericTag(WATagBrush)>>with:
+WAVersosAleatorios>>renderContentOn:
+WARenderVisitor>>visitPainter:
+WARenderVisitor(WAPainterVisitor)>>visitPresenter:
+[0m[31mBreak
+[0mWAVersosAleatorios>>style
+WAVersosAleatorios(WAPresenter)>>updateRoot:
+WAVersosAleatorios>>updateRoot:
+WAUpdateRootVisitor>>visitPainter:
+WAUpdateRootVisitor(WAPainterVisitor)>>visitPresenter:
+WAUpdateRootVisitor(WAPainterVisitor)>>visitComponent:
+WAVersosAleatorios(WAComponent)>>accept:
+WAUpdateRootVisitor(WAVisitor)>>visit:
+WAVisiblePresenterGuide(WAPresenterGuide)>>visitPainter:
+WAVisiblePresenterGuide(WAPainterVisitor)>>visitPresenter:
+WAVisiblePresenterGuide>>visitPresenter:
+WAVisiblePresenterGuide(WAPainterVisitor)>>visitComponent:
+WAVersosAleatorios(WAComponent)>>accept:
+WAVisiblePresenterGuide>>visitDecoration:
+WAToolDecoration(WADecoration)>>accept:
+WAVisiblePresenterGuide(WAPainterVisitor)>>visitDecorationsOfComponent:
+WAVersosAleatorios(WAComponent)>>acceptDecorated:
+WAVisiblePresenterGuide(WAPresenterGuide)>>visit:
+WAVisiblePresenterGuide(WAVisitor)>>start:
+WARenderPhaseContinuation(WARenderLoopContinuation)>>toPresenterSendRoot:
+WARenderPhaseContinuation>>processRendering:
+[ :response | self processRendering: response ] in WARenderPhaseContinuation>>handleFiltered: in Block: [ :response | self processRendering: response ]
+WARequestContext>>respond:
+WARenderPhaseContinuation(WASessionContinuation)>>respond:
+WARenderPhaseContinuation>>handleFiltered:
+[ self filter handleFiltered: aRequestContext ] in WARenderPhaseContinuation(WARequestHandler)>>handle: in Block: [ self filter handleFiltered: aRequestContext ]
+[ activeProcess psValueAt: index put: anObject.
+aBlock value ] in WACurrentRequestContext(DynamicVariable)>>value:during: in Block: [ activeProcess psValueAt: index put: anObject....
+BlockClosure>>ensure:
+WACurrentRequestContext(DynamicVariable)>>value:during:
+WACurrentRequestContext class(DynamicVariable class)>>value:during:
+[0m[31mBreak
+[0mWAVersosAleatorios>>style
+WAVersosAleatorios(WAPresenter)>>updateRoot:
+WAVersosAleatorios>>updateRoot:
+WAUpdateRootVisitor>>visitPainter:
+WAUpdateRootVisitor(WAPainterVisitor)>>visitPresenter:
+WAUpdateRootVisitor(WAPainterVisitor)>>visitComponent:
+WAVersosAleatorios(WAComponent)>>accept:
+WAUpdateRootVisitor(WAVisitor)>>visit:
+WAVisiblePresenterGuide(WAPresenterGuide)>>visitPainter:
+WAVisiblePresenterGuide(WAPainterVisitor)>>visitPresenter:
+WAVisiblePresenterGuide>>visitPresenter:
+WAVisiblePresenterGuide(WAPainterVisitor)>>visitComponent:
+WAVersosAleatorios(WAComponent)>>accept:
+WAVisiblePresenterGuide>>visitDecoration:
+WAToolDecoration(WADecoration)>>accept:
+WAVisiblePresenterGuide(WAPainterVisitor)>>visitDecorationsOfComponent:
+WAVersosAleatorios(WAComponent)>>acceptDecorated:
+WAVisiblePresenterGuide(WAPresenterGuide)>>visit:
+WAVisiblePresenterGuide(WAVisitor)>>start:
+WARenderPhaseContinuation(WARenderLoopContinuation)>>toPresenterSendRoot:
+WARenderPhaseContinuation>>processRendering:
+[ :response | self processRendering: response ] in WARenderPhaseContinuation>>handleFiltered: in Block: [ :response | self processRendering: response ]
+WARequestContext>>respond:
+WARenderPhaseContinuation(WASessionContinuation)>>respond:
+WARenderPhaseContinuation>>handleFiltered:
+[ self filter handleFiltered: aRequestContext ] in WARenderPhaseContinuation(WARequestHandler)>>handle: in Block: [ self filter handleFiltered: aRequestContext ]
+[ activeProcess psValueAt: index put: anObject.
+aBlock value ] in WACurrentRequestContext(DynamicVariable)>>value:during: in Block: [ activeProcess psValueAt: index put: anObject....
+BlockClosure>>ensure:
+WACurrentRequestContext(DynamicVariable)>>value:during:
+WACurrentRequestContext class(DynamicVariable class)>>value:during:
+[0m[31mBreak
+[0mWAVersosAleatorios>>style
+WAVersosAleatorios(WAPresenter)>>updateRoot:
+WAVersosAleatorios>>updateRoot:
+WAUpdateRootVisitor>>visitPainter:
+WAUpdateRootVisitor(WAPainterVisitor)>>visitPresenter:
+WAUpdateRootVisitor(WAPainterVisitor)>>visitComponent:
+WAVersosAleatorios(WAComponent)>>accept:
+WAUpdateRootVisitor(WAVisitor)>>visit:
+WAVisiblePresenterGuide(WAPresenterGuide)>>visitPainter:
+WAVisiblePresenterGuide(WAPainterVisitor)>>visitPresenter:
+WAVisiblePresenterGuide>>visitPresenter:
+WAVisiblePresenterGuide(WAPainterVisitor)>>visitComponent:
+WAVersosAleatorios(WAComponent)>>accept:
+WAVisiblePresenterGuide>>visitDecoration:
+WAToolDecoration(WADecoration)>>accept:
+WAVisiblePresenterGuide(WAPainterVisitor)>>visitDecorationsOfComponent:
+WAVersosAleatorios(WAComponent)>>acceptDecorated:
+WAVisiblePresenterGuide(WAPresenterGuide)>>visit:
+WAVisiblePresenterGuide(WAVisitor)>>start:
+WARenderPhaseContinuation(WARenderLoopContinuation)>>toPresenterSendRoot:
+WARenderPhaseContinuation>>processRendering:
+[ :response | self processRendering: response ] in WARenderPhaseContinuation>>handleFiltered: in Block: [ :response | self processRendering: response ]
+WARequestContext>>respond:
+WARenderPhaseContinuation(WASessionContinuation)>>respond:
+WARenderPhaseContinuation>>handleFiltered:
+[ self filter handleFiltered: aRequestContext ] in WARenderPhaseContinuation(WARequestHandler)>>handle: in Block: [ self filter handleFiltered: aRequestContext ]
+[ activeProcess psValueAt: index put: anObject.
+aBlock value ] in WACurrentRequestContext(DynamicVariable)>>value:during: in Block: [ activeProcess psValueAt: index put: anObject....
+BlockClosure>>ensure:
+WACurrentRequestContext(DynamicVariable)>>value:during:
+WACurrentRequestContext class(DynamicVariable class)>>value:during:
+[0m[31mBreak
+[0mWAVersosAleatorios>>style
+WAVersosAleatorios(WAPresenter)>>updateRoot:
+WAVersosAleatorios>>updateRoot:
+WAUpdateRootVisitor>>visitPainter:
+WAUpdateRootVisitor(WAPainterVisitor)>>visitPresenter:
+WAUpdateRootVisitor(WAPainterVisitor)>>visitComponent:
+WAVersosAleatorios(WAComponent)>>accept:
+WAUpdateRootVisitor(WAVisitor)>>visit:
+WAVisiblePresenterGuide(WAPresenterGuide)>>visitPainter:
+WAVisiblePresenterGuide(WAPainterVisitor)>>visitPresenter:
+WAVisiblePresenterGuide>>visitPresenter:
+WAVisiblePresenterGuide(WAPainterVisitor)>>visitComponent:
+WAVersosAleatorios(WAComponent)>>accept:
+WAVisiblePresenterGuide>>visitDecoration:
+WAToolDecoration(WADecoration)>>accept:
+WAVisiblePresenterGuide(WAPainterVisitor)>>visitDecorationsOfComponent:
+WAVersosAleatorios(WAComponent)>>acceptDecorated:
+WAVisiblePresenterGuide(WAPresenterGuide)>>visit:
+WAVisiblePresenterGuide(WAVisitor)>>start:
+WARenderPhaseContinuation(WARenderLoopContinuation)>>toPresenterSendRoot:
+WARenderPhaseContinuation>>processRendering:
+[ :response | self processRendering: response ] in WARenderPhaseContinuation>>handleFiltered: in Block: [ :response | self processRendering: response ]
+WARequestContext>>respond:
+WARenderPhaseContinuation(WASessionContinuation)>>respond:
+WARenderPhaseContinuation>>handleFiltered:
+[ self filter handleFiltered: aRequestContext ] in WARenderPhaseContinuation(WARequestHandler)>>handle: in Block: [ self filter handleFiltered: aRequestContext ]
+[ activeProcess psValueAt: index put: anObject.
+aBlock value ] in WACurrentRequestContext(DynamicVariable)>>value:during: in Block: [ activeProcess psValueAt: index put: anObject....
+BlockClosure>>ensure:
+WACurrentRequestContext(DynamicVariable)>>value:during:
+WACurrentRequestContext class(DynamicVariable class)>>value:during:
+[0m[31mSubscriptOutOfBounds: 3
+[0mArray(Object)>>errorSubscriptBounds:
+Array(Object)>>at:
+[ :newStream | 
+readStream := self readStream.
+[ readStream atEnd ]
+	whileFalse: [ char := readStream next.
+		char == $<
+			ifTrue: [ | nextChar |
+				nextChar := readStream next asUppercase.
+				nextChar == $R
+					ifTrue: [ newStream cr ].
+				nextChar == $L
+					ifTrue: [ newStream lf ].
+				nextChar == $T
+					ifTrue: [ newStream tab ].
+				nextChar == $N
+					ifTrue: [ newStream nextPutAll: OSPlatform current lineEnding ].
+				nextChar isDigit
+					ifTrue: [ index := nextChar digitValue.
+						[ readStream atEnd
+							or: [ (nextChar := readStream next asUppercase) isDigit not ] ]
+							whileFalse: [ index := index * 10 + nextChar digitValue ] ].
+				nextChar == $?
+					ifTrue: [ | trueString falseString |
+						trueString := readStream upTo: $:.
+						falseString := readStream upTo: $>.
+						readStream position: readStream position - 1.
+						newStream
+							nextPutAll:
+								((anArray at: index)
+									ifTrue: [ trueString ]
+									ifFalse: [ falseString ]) ].
+				nextChar == $P
+					ifTrue: [ (anArray at: index) printOn: newStream ].
+				nextChar == $S
+					ifTrue: [ newStream nextPutAll: (anArray at: index) ].
+				readStream skipTo: $> ]
+			ifFalse: [ newStream
+					nextPut:
+						(char == $%
+							ifTrue: [ readStream next ]
+							ifFalse: [ char ]) ] ] ] in ByteString(String)>>expandMacrosWithArguments: in Block: [ :newStream | ...
+ByteString class(SequenceableCollection class)>>new:streamContents:
+ByteString(String)>>expandMacrosWithArguments:
+ByteString(String)>>expandMacrosWith:with:
+WAVersosAleatorios>>styleDeVerso
+WAVersosAleatorios>>renderVerso:withRenderer:
+Verso>>renderOnComponent:withRenderer:
+[ :verso | verso renderOnComponent: self withRenderer: html ] in WAVersosAleatorios>>renderVersos:withRenderer: in Block: [ :verso | verso renderOnComponent: self withRende...etc...
+OrderedCollection>>do:
+WAVersosAleatorios>>renderVersos:withRenderer:
+Poema>>renderOnComponent:withRenderer:
+WAVersosAleatorios>>renderPoemaConstruido:withRenderer:
+ConstruccionDePoemas>>renderOnComponent:withRenderer:
+[ model renderOnComponent: self withRenderer: html.
+html div class: 'clear' ] in WAVersosAleatorios>>renderContentOn: in Block: [ model renderOnComponent: self withRenderer: html...etc...
+BlockClosure>>renderOn:
+WAHtmlCanvas(WARenderer)>>render:
+WAHtmlCanvas(WACanvas)>>render:
+[ self before.
+canvas render: anObject.
+self after ] in WAGenericTag(WATagBrush)>>with: in Block: [ self before....
+BlockClosure>>renderOn:
+WAHtmlCanvas(WARenderer)>>render:
+WAHtmlCanvas(WACanvas)>>render:
+WAHtmlCanvas(WACanvas)>>nest:
+WAGenericTag(WABrush)>>with:
+WAGenericTag(WATagBrush)>>with:
+WAVersosAleatorios>>renderContentOn:
+WARenderVisitor>>visitPainter:
+WARenderVisitor(WAPainterVisitor)>>visitPresenter:
+WARenderVisitor(WAPainterVisitor)>>visitComponent:
+[0mgDelimiterDecorator(RubParagraphDecorator)>>doesNotUnderstand: #selectionRects in Block: [ aMessage sendTo: next ]
+BlockClosure>>on:do:
+RubOpeningClosingDelimiterDecorator(RubParagraphDecorator)>>doesNotUnderstand: #selectionRects
+Message>>sendTo:
+[ aMessage sendTo: next ] in RubExtraSelectionDecorator(RubParagraphDecorator)>>doesNotUnderstand: #selectionRects in Block: [ aMessage sendTo: next ]
+BlockClosure>>on:do:
+RubExtraSelectionDecorator(RubParagraphDecorator)>>doesNotUnderstand: #selectionRects
+Message>>sendTo:
+[ aMessage sendTo: next ] in RubCurrentLineBarDecorator(RubParagraphDecorator)>>doesNotUnderstand: #selectionRects in Block: [ aMessage sendTo: next ]
+BlockClosure>>on:do:
+RubCurrentLineBarDecorator(RubParagraphDecorator)>>doesNotUnderstand: #selectionRects
+Message>>sendTo:
+[ aMessage sendTo: next ] in RubShoutStylerDecorator(RubParagraphDecorator)>>doesNotUnderstand: #selectionRects in Block: [ aMessage sendTo: next ]
+BlockClosure>>on:do:
+RubShoutStylerDecorator(RubParagraphDecorator)>>doesNotUnderstand: #selectionRects
+[ :strm | 
+strm nextPutAll: self paragraph selectionRects.
+self cursor ifNotNil: [ strm nextPut: self cursor bounds ] ] in RubEditingArea(RubAbstractTextArea)>>selectionRects in Block: [ :strm | ...
+Array class(SequenceableCollection class)>>new:streamContents:
+Array class(SequenceableCollection class)>>streamContents:
+RubEditingArea(RubAbstractTextArea)>>selectionRects
+RubTextScrollPane>>scrollSelectionIntoView:
+RubTextScrollPane>>scrollSelectionIntoView
+RubScrolledTextMorph>>setTextAreaSelection:
+RubScrolledTextMorph>>setSelection:
+RubScrolledTextMorph>>model:
+GLMMorphicPharoMethodRenderer>>morph
+GLMMorphicPharoMethodRenderer(GLMMorphicRubricTextRenderer)>>render:
+GLMMorphicPharoMethodRenderer class(GLMMorphicWidgetRenderer class)>>render:from:
+[0m[31mUser Interrupt
+[0mSmallInteger(Number)>>negative
+SmallInteger(Integer)>>bitShift:
+SmallInteger>>bitShift:
+Color>>pixelValueForDepth:
+Color>>pixelWordForDepth:
+Color>>scaledPixelValue32
+SolidFillStyle>>color:
+SolidFillStyle class>>color:
+PharoLightTheme>>glamorousNormalFillStyleFor:height:
+PharoLightTheme(UITheme)>>buttonNormalFillStyleFor:
+GLMPluggableButtonMorph(PluggableButtonMorph)>>normalFillStyle
+GLMPluggableButtonMorph(PluggableButtonMorph)>>fillStyleToUse
+GLMPluggableButtonMorph(PluggableButtonMorph)>>changed
+GLMPluggableButtonMorph(Morph)>>extent:
+GLMMorphicActionRenderer>>render:
+GLMMorphicActionRenderer class(GLMMorphicWidgetRenderer class)>>render:from:
+GLMMorphicRenderer>>renderAction:
+GLMGenericAction(GLMAction)>>renderGlamorouslyOn:
+[ :each | 
+| actionMorph |
+actionMorph := each renderGlamorouslyOn: self renderer.
+actionMorph arguments
+	ifNil: [ actionMorph arguments: {aPresentation} ]
+	ifNotNil: [ actionMorph arguments: {aPresentation} , actionMorph arguments ].
+actionMorph ] in GLMMorphicTabbedRenderer(GLMMorphicWidgetRenderer)>>toolbarButtonsForPresentation: in Block: [ :each | ...
+OrderedCollection>>collect:
+GLMMorphicTabbedRenderer(GLMMorphicWidgetRenderer)>>toolbarButtonsForPresentation:
+GLMMorphicTabbedRenderer(GLMMorphicWidgetRenderer)>>renderToolbarForPresentation:inMorph:
+[ :each | 
+tabs
+	addLazyPage: [ self renderObject: each ]
+	label: (self titleOrIconOf: each in: tabs)
+	toolbar: (self renderToolbarForPresentation: each inMorph: tabs)
+	action: (self labelActionBrickFor: each) ] in GLMMorphicTabbedRenderer>>render: in Block: [ :each | ...
+OrderedCollection>>do:
+GLMMorphicTabbedRenderer>>render:
+GLMMorphicTabbedRenderer class(GLMMorphicWidgetRenderer class)>>render:from:
+GLMMorphicRenderer>>renderTabbedCompositePresentation:
+GLMTabbedArrangement>>renderGlamorouslyOn:
+GLMCompositePresentation>>renderGlamorouslyOn:
+GLMMorphicRenderer(GLMRenderer)>>render:
+[0m[31mUser Interrupt
+[0mGLMBrickLayoutProperties>>widthDependencies
+GLMBrickWidthTraverser>>customDependencies:
+GLMBrickWidthTraverser(GLMBrickLayoutTraverser)>>hasCustomDependencies:
+GLMBrickWidthTraverser(GLMBrickLayoutTraverser)>>markDirtyCustomDependency:inContext:
+GLMBrickWidthTraverser(GLMBrickLayoutTraverser)>>markDirtyAround:inContext:
+[ :each | 
+each = aContextBrick
+	ifFalse: [ each isBrick
+			ifTrue: [ (self isDependsOnParent: each) & (self isClean: each)
+					| (each layout floating = #none) not
+					| (each layout vAlign = #none) not
+					| (each layout hAlign = #none) not
+					ifTrue: [ self markDirty: each.
+						self markDirtyAround: each inContext: aBrick ] ] ] ] in GLMBrickWidthTraverser(GLMBrickLayoutTraverser)>>markDirtyAround:inContext: in Block: [ :each | ...
+OrderedCollection>>do:
+GLMBrickWidthTraverser(GLMBrickLayoutTraverser)>>markDirtyAround:inContext:
+[ :each | 
+each = aContextBrick
+	ifFalse: [ each isBrick
+			ifTrue: [ (self isDependsOnParent: each) & (self isClean: each)
+					| (each layout floating = #none) not
+					| (each layout vAlign = #none) not
+					| (each layout hAlign = #none) not
+					ifTrue: [ self markDirty: each.
+						self markDirtyAround: each inContext: aBrick ] ] ] ] in GLMBrickWidthTraverser(GLMBrickLayoutTraverser)>>markDirtyAround:inContext: in Block: [ :each | ...
+OrderedCollection>>do:
+GLMBrickWidthTraverser(GLMBrickLayoutTraverser)>>markDirtyAround:inContext:
+[ :each | 
+each = aContextBrick
+	ifFalse: [ each isBrick
+			ifTrue: [ (self isDependsOnParent: each) & (self isClean: each)
+					| (each layout floating = #none) not
+					| (each layout vAlign = #none) not
+					| (each layout hAlign = #none) not
+					ifTrue: [ self markDirty: each.
+						self markDirtyAround: each inContext: aBrick ] ] ] ] in GLMBrickWidthTraverser(GLMBrickLayoutTraverser)>>markDirtyAround:inContext: in Block: [ :each | ...
+OrderedCollection>>do:
+GLMBrickWidthTraverser(GLMBrickLayoutTraverser)>>markDirtyAround:inContext:
+[ :each | 
+each = aContextBrick
+	ifFalse: [ each isBrick
+			ifTrue: [ (self isDependsOnParent: each) & (self isClean: each)
+					| (each layout floating = #none) not
+					| (each layout vAlign = #none) not
+					| (each layout hAlign = #none) not
+					ifTrue: [ self markDirty: each.
+						self markDirtyAround: each inContext: aBrick ] ] ] ] in GLMBrickWidthTraverser(GLMBrickLayoutTraverser)>>markDirtyAround:inContext: in Block: [ :each | ...
+OrderedCollection>>do:
+GLMBrickWidthTraverser(GLMBrickLayoutTraverser)>>markDirtyAround:inContext:
+GLMBrickLayouter>>markDependent:
+GLMBrickLayouter>>layoutIn:
+GLMBrick>>doLayout
+GLMBrick>>doLayoutForce
+GLMTabSelectorBrick(GLMFoundationBrick)>>extent:
+GLMTabSelectorBrick(Morph)>>bounds:
+GLMTabSelectorBrick(Morph)>>layoutInBounds:
+TableLayout>>layoutLeftToRight:in:
+TableLayout>>layout:in:
+PanelMorph(Morph)>>doLayoutIn:
+[ self doLayoutIn: self layoutBounds ] in PanelMorph(Morph)>>computeFullBounds in Block: [ self doLayoutIn: self layoutBounds ]
+BlockClosure>>on:do:
+PanelMorph(Morph)>>computeFullBounds
+[0m[31mUser Interrupt
+[0m[ self value.
+Processor terminateActive ] in BlockClosure>>newProcess in Block: [ self value....
+[0m[31mUser Interrupt
+[0m[ self value.
+Processor terminateActive ] in BlockClosure>>newProcess in Block: [ self value....
+[0m[31mUser Interrupt
+[0m[ self value.
+Processor terminateActive ] in BlockClosure>>newProcess in Block: [ self value....
+[0m[31mUser Interrupt
+[0m[ self value.
+Processor terminateActive ] in BlockClosure>>newProcess in Block: [ self value....
+[0m[31mUser Interrupt
+[0mDelaySemaphoreScheduler>>schedule:
+Delay>>schedule
+Delay>>wait
+Duration>>wait
+[ | result |
+anIntegerMilliseconds > 0
+	ifTrue: [ anIntegerMilliseconds milliSeconds wait ].
+result := aBlock valueWithEnoughArguments: aCollection.
+"we use it to pass result from background thread and execute callback block in UI thread"
+UIManager default
+	defer: [ self complete: result callback: callbackBlock ] ] in GLMAsyncTask>>execute:withArguments:callback:priority:delay: in Block: [ | result |...
+[ self value.
+Processor terminateActive ] in BlockClosure>>newProcess in Block: [ self value....
+[0m[31mUser Interrupt
+[0mGLMBrickHeightTraverser(GLMBrickLayoutTraverser)>>markDirtyAround:inContext:
+GLMBrickLayouter>>markDependent:
+GLMBrickLayouter>>layoutIn:
+GLMBrick>>doLayout
+GLMBrick>>layoutAfter:
+GLMBrick>>bounds:
+[ self bounds: (self brickBounds withHeight: self customHeight) ] in GLMBrick>>updateHeight in Block: [ self bounds: (self brickBounds withHeight: self ...etc...
+BlockClosure>>on:do:
+GLMBrick>>updateHeight
+GLMBrick>>height:
+GLMTabSelectorBrick(GLMFoundationBrick)>>extent:
+GLMTabSelectorBrick(Morph)>>bounds:
+GLMTabSelectorBrick(Morph)>>layoutInBounds:
+TableLayout>>layoutLeftToRight:in:
+TableLayout>>layout:in:
+PanelMorph(Morph)>>doLayoutIn:
+[ self doLayoutIn: self layoutBounds ] in PanelMorph(Morph)>>computeFullBounds in Block: [ self doLayoutIn: self layoutBounds ]
+BlockClosure>>on:do:
+PanelMorph(Morph)>>computeFullBounds
+PanelMorph(Morph)>>fullBounds
+PanelMorph(Morph)>>clipSubmorphs:
+LazyTabGroupMorph>>headerMorph:
+LazyTabGroupMorph>>initialize
+LazyTabGroupMorph class(Behavior)>>new
+GLMMorphicTabbedRenderer>>render:
+GLMMorphicTabbedRenderer class(GLMMorphicWidgetRenderer class)>>render:from:
+GLMMorphicRenderer>>renderTabbedCompositePresentation:
+GLMTabbedArrangement>>renderGlamorouslyOn:
+GLMCompositePresentation>>renderGlamorouslyOn:
+GLMMorphicRenderer(GLMRenderer)>>render:
+[0m[31mPrimitiveFailed: primitive #primitiveFail in Bitmap failed
+[0mBitmap(ProtoObject)>>primitiveFailed:
+Bitmap(ProtoObject)>>primitiveFailed
+Bitmap(ProtoObject)>>primitiveFail
+Bitmap>>decompress:fromByteArray:at:
+Bitmap class>>decompressFromByteArray:
+Form>>unhibernate
+PluginBasedJPEGReadWriter>>nextPutImage:quality:progressiveJPEG:
+PluginBasedJPEGReadWriter>>nextPutImage:
+PluginBasedJPEGReadWriter class(ImageReadWriter class)>>putForm:onStream:
+Form>>seasideMimeDocumentType:
+WADocumentHandler class>>document:mimeType:fileName:
+WARenderContext>>urlForDocument:mimeType:fileName:
+WAImageTag>>document:mimeType:fileName:
+WAImageTag>>document:mimeType:
+[ html image
+	document: formDeImagen mimeType: 'image/jpg';
+	script:
+		(html jQuery new droppable
+			onDrop:
+				(html jQuery this load
+					callbackDroppable:
+							[ :event | model convertImageWith: (event at: #draggable) inForm: formDeImagen ];
+					html: [ :r | self renderForm: formDeImagen withRenderer: r ]));
+	with: [ :r | self renderForm: formDeImagen withRenderer: html ] ] in WAImagenes>>renderForm:withRenderer: in Block: [ html image...
+BlockClosure>>renderOn:
+WAHtmlCanvas(WARenderer)>>render:
+WAHtmlCanvas(WACanvas)>>render:
+[ self before.
+canvas render: anObject.
+self after ] in WAGenericTag(WATagBrush)>>with: in Block: [ self before....
+BlockClosure>>renderOn:
+WAHtmlCanvas(WARenderer)>>render:
+WAHtmlCanvas(WACanvas)>>render:
+WAHtmlCanvas(WACanvas)>>nest:
+WAGenericTag(WABrush)>>with:
+WAGenericTag(WATagBrush)>>with:
+WAHtmlCanvas>>paragraph:
+WAImagenes>>renderForm:withRenderer:
+[ :r | self renderForm: formDeImagen withRenderer: r ] in [ html image
+	document: formDeImagen mimeType: 'image/jpg';
+	script:
+		(html jQuery new droppable
+			onDrop:
+				(html jQuery this load
+					callbackDroppable:
+							[ :event | model convertImageWith: (event at: #draggable) inForm: formDeImagen ];
+					html: [ :r | self renderForm: formDeImagen withRenderer: r ])) ] in WAImagenes>>renderForm:withRenderer: in Block: [ :r | self renderForm: formDeImagen withRenderer:...etc...
+BlockClosure>>renderOn:
+WAHtmlCanvas(WARenderer)>>render:
+[0m[31mPrimitiveFailed: primitive #primitiveFail in Bitmap failed
+[0mBitmap(ProtoObject)>>primitiveFailed:
+Bitmap(ProtoObject)>>primitiveFailed
+Bitmap(ProtoObject)>>primitiveFail
+Bitmap>>decompress:fromByteArray:at:
+Bitmap class>>decompressFromByteArray:
+Form>>unhibernate
+PluginBasedJPEGReadWriter>>nextPutImage:quality:progressiveJPEG:
+PluginBasedJPEGReadWriter>>nextPutImage:
+PluginBasedJPEGReadWriter class(ImageReadWriter class)>>putForm:onStream:
+Form>>seasideMimeDocumentType:
+WADocumentHandler class>>document:mimeType:fileName:
+WARenderContext>>urlForDocument:mimeType:fileName:
+WAImageTag>>document:mimeType:fileName:
+WAImageTag>>document:mimeType:
+[ html image
+	document: formDeImagen mimeType: 'image/jpg';
+	script:
+		(html jQuery new droppable
+			onDrop:
+				(html jQuery this load
+					callbackDroppable:
+							[ :event | model convertImageWith: (event at: #draggable) inForm: formDeImagen ];
+					html: [ :r | self renderForm: formDeImagen withRenderer: r ]));
+	with: [ :r | self renderForm: formDeImagen withRenderer: html ] ] in WAImagenes>>renderForm:withRenderer: in Block: [ html image...
+BlockClosure>>renderOn:
+WAHtmlCanvas(WARenderer)>>render:
+WAHtmlCanvas(WACanvas)>>render:
+[ self before.
+canvas render: anObject.
+self after ] in WAGenericTag(WATagBrush)>>with: in Block: [ self before....
+BlockClosure>>renderOn:
+WAHtmlCanvas(WARenderer)>>render:
+WAHtmlCanvas(WACanvas)>>render:
+WAHtmlCanvas(WACanvas)>>nest:
+WAGenericTag(WABrush)>>with:
+WAGenericTag(WATagBrush)>>with:
+WAHtmlCanvas>>paragraph:
+WAImagenes>>renderForm:withRenderer:
+[ :r | self renderForm: formDeImagen withRenderer: r ] in [ html image
+	document: formDeImagen mimeType: 'image/jpg';
+	script:
+		(html jQuery new droppable
+			onDrop:
+				(html jQuery this load
+					callbackDroppable:
+							[ :event | model convertImageWith: (event at: #draggable) inForm: formDeImagen ];
+					html: [ :r | self renderForm: formDeImagen withRenderer: r ])) ] in WAImagenes>>renderForm:withRenderer: in Block: [ :r | self renderForm: formDeImagen withRenderer:...etc...
+BlockClosure>>renderOn:
+WAHtmlCanvas(WARenderer)>>render:
+[0m[31mUser Interrupt
+[0m[ delaySemaphore wait ] in Delay>>wait in Block: [ delaySemaphore wait ]
+BlockClosure>>ifCurtailed:
+Delay>>wait
+WorldState>>interCyclePause:
+WorldState>>doOneCycleFor:
+WorldMorph>>doOneCycle
+WorldMorph class>>doOneCycle
+[ [ WorldMorph doOneCycle.
+Processor yield.
+false ] whileFalse: [  ] ] in MorphicUIManager>>spawnNewProcess in Block: [ [ WorldMorph doOneCycle....
+[ self value.
+Processor terminateActive ] in BlockClosure>>newProcess in Block: [ self value....
+[0m[31mUser Interrupt
+[0m[ self value.
+Processor terminateActive ] in BlockClosure>>newProcess in Block: [ self value....
+[0m[31mUser Interrupt
+[0m[ self value.
+Processor terminateActive ] in BlockClosure>>newProcess in Block: [ self value....
+[0m[31mUser Interrupt
+[0m[ self value.
+Processor terminateActive ] in BlockClosure>>newProcess in Block: [ self value....
+[0m[31mUser Interrupt
+[0m[ self value.
+Processor terminateActive ] in BlockClosure>>newProcess in Block: [ self value....
+[0m[31mUser Interrupt
+[0m[ self value.
+Processor terminateActive ] in BlockClosure>>newProcess in Block: [ self value....
+[0m[31mUser Interrupt
+[0m[ self value.
+Processor terminateActive ] in BlockClosure>>newProcess in Block: [ self value....
+[0m[31mUser Interrupt
+[0mInsetBorder>>trackColorFrom:
+BorderedMorph>>borderStyle
+BorderedMorph(Morph)>>privateMoveBy:
+BorderedMorph(Morph)>>privateFullMoveBy:
+[ :each | each privateFullMoveBy: delta ] in Morph>>privateFullMoveBy: in Block: [ :each | each privateFullMoveBy: delta ]
+Array(SequenceableCollection)>>do:
+Morph>>privateFullMoveBy:
+[ :each | each privateFullMoveBy: delta ] in RubScrollBar(Morph)>>privateFullMoveBy: in Block: [ :each | each privateFullMoveBy: delta ]
+Array(SequenceableCollection)>>do:
+RubScrollBar(Morph)>>privateFullMoveBy:
+[ :each | each privateFullMoveBy: delta ] in RubTextScrollPane(Morph)>>privateFullMoveBy: in Block: [ :each | each privateFullMoveBy: delta ]
+Array(SequenceableCollection)>>do:
+RubTextScrollPane(Morph)>>privateFullMoveBy:
+RubTextScrollPane(Morph)>>position:
+RubTextScrollPane>>position:
+RubScrolledTextMorph>>manageLayoutInBounds:
+RubScrolledTextMorph>>manageLayout
+RubScrolledTextMorph>>withoutRuler:
+RubScrolledTextMorph>>withoutRulerNamed:
+RubScrolledTextMorph>>withoutTextSegmentIcons
+GLMMorphicPharoMethodRenderer(GLMMorphicRubricTextRenderer)>>render:
+GLMMorphicPharoMethodRenderer class(GLMMorphicWidgetRenderer class)>>render:from:
+GLMMorphicRenderer>>renderPharoMethodPresentation:
+GLMPharoMethodPresentation>>renderGlamorouslyOn:
+GLMMorphicRenderer(GLMRenderer)>>render:
+GLMMorphicTabbedRenderer(GLMMorphicWidgetRenderer)>>renderObject:
+[ self renderObject: each ] in [ :each | 
+tabs
+	addLazyPage: [ self renderObject: each ]
+	label: (self titleOrIconOf: each in: tabs)
+	toolbar: (self renderToolbarForPresentation: each inMorph: tabs)
+	action: (self labelActionBrickFor: each) ] in GLMMorphicTabbedRenderer>>render: in Block: [ self renderObject: each ]
+LazyTabPage>>actualPageMorph
+LazyTabGroupMorph>>pageAt:
+LazyTabGroupMorph>>updatePageIndex:
+[0m[31mUser Interrupt
+[0mRectangle>>setPoint:point:
+Rectangle class>>origin:corner:
+Rectangle>>translateBy:
+GLMFoundationBrick(Morph)>>privateMoveBy:
+GLMFoundationBrick(Morph)>>privateFullMoveBy:
+[ :each | each privateFullMoveBy: delta ] in GLMPanelMorph(Morph)>>privateFullMoveBy: in Block: [ :each | each privateFullMoveBy: delta ]
+Array(SequenceableCollection)>>do:
+GLMPanelMorph(Morph)>>privateFullMoveBy:
+[ :each | each privateFullMoveBy: delta ] in GLMPanelMorph(Morph)>>privateFullMoveBy: in Block: [ :each | each privateFullMoveBy: delta ]
+Array(SequenceableCollection)>>do:
+GLMPanelMorph(Morph)>>privateFullMoveBy:
+GLMPanelMorph(Morph)>>position:
+GLMPanelMorph(Morph)>>bounds:
+GLMPanelMorph(Morph)>>layoutInBounds:
+GLMPanelMorph(Morph)>>layoutProportionallyIn:
+[ :m | m layoutProportionallyIn: newBounds ] in ProportionalLayout>>layout:in: in Block: [ :m | m layoutProportionallyIn: newBounds ]
+Array(SequenceableCollection)>>do:
+GLMPanelMorph(Morph)>>submorphsDo:
+ProportionalLayout>>layout:in:
+GLMPanelMorph(Morph)>>doLayoutIn:
+[ self doLayoutIn: self layoutBounds ] in GLMPanelMorph(Morph)>>computeFullBounds in Block: [ self doLayoutIn: self layoutBounds ]
+BlockClosure>>on:do:
+GLMPanelMorph(Morph)>>computeFullBounds
+GLMPanelMorph(Morph)>>fullBounds
+GLMPanelMorph(Morph)>>position:
+GLMPanelMorph(Morph)>>bounds:
+GLMPanelMorph(Morph)>>layoutInBounds:
+GLMPanelMorph(Morph)>>layoutProportionallyIn:
+[ :m | m layoutProportionallyIn: newBounds ] in ProportionalLayout>>layout:in: in Block: [ :m | m layoutProportionallyIn: newBounds ]
+Array(SequenceableCollection)>>do:
+[0m[31mUser Interrupt
+[0mDelaySemaphoreScheduler>>schedule:
+Delay>>schedule
+Delay>>wait
+Duration>>wait
+[ | result |
+anIntegerMilliseconds > 0
+	ifTrue: [ anIntegerMilliseconds milliSeconds wait ].
+result := aBlock valueWithEnoughArguments: aCollection.
+"we use it to pass result from background thread and execute callback block in UI thread"
+UIManager default
+	defer: [ self complete: result callback: callbackBlock ] ] in GLMAsyncTask>>execute:withArguments:callback:priority:delay: in Block: [ | result |...
+[ self value.
+Processor terminateActive ] in BlockClosure>>newProcess in Block: [ self value....
+[0m[31mUser Interrupt
+[0mGLMPagerScrollBrick(GLMBrick)>>wrappedBounds
+GLMBrickWrapper>>isWidthDirty
+GLMBrickLayouter>>markDependent:
+GLMBrickLayouter>>layoutIn:
+GLMPagerScrollBrick(GLMBrick)>>doLayout
+GLMPagerScrollBrick(GLMBrick)>>doLayoutForce
+GLMPagerScrollBrick(GLMBrick)>>addBrickBack:
+GLMPagerScrollBrick>>band:
+GLMPagerScrollBrick>>initialize
+GLMPagerScrollBrick class(Behavior)>>new
+GLMPagerBrick>>newScrollBrick
+GLMPagerBrick>>pagerModel:
+GLMMorphicPagerRenderer>>render:
+GLMMorphicPagerRenderer class(GLMMorphicWidgetRenderer class)>>render:from:
+GLMMorphicRenderer>>renderPager:
+GLMPager>>renderGlamorouslyOn:
+GLMMorphicRenderer(GLMRenderer)>>render:
+GLMMorphicTabbedRenderer(GLMMorphicWidgetRenderer)>>renderObject:
+GLMMorphicTabbedRenderer(GLMMorphicWidgetRenderer)>>renderWithTitleOrNil:
+GLMMorphicTabbedRenderer>>render:
+GLMMorphicTabbedRenderer class(GLMMorphicWidgetRenderer class)>>render:from:
+GLMMorphicRenderer>>renderTabbedCompositePresentation:
+GLMTabbedArrangement>>renderGlamorouslyOn:
+GTDebuggerInspector(GLMCompositePresentation)>>renderGlamorouslyOn:
+GLMMorphicRenderer(GLMRenderer)>>render:
+GLMMorphicTabbedRenderer(GLMMorphicWidgetRenderer)>>renderObject:
+GLMMorphicTabbedRenderer(GLMMorphicWidgetRenderer)>>renderWithTitleOrNil:
+GLMMorphicTabbedRenderer>>render:
+GLMMorphicTabbedRenderer class(GLMMorphicWidgetRenderer class)>>render:from:
+GLMMorphicRenderer>>renderTabbedCompositePresentation:
+[0m[31mUser Interrupt
+[0mDelaySemaphoreScheduler>>schedule:
+Delay>>schedule
+Delay>>wait
+Duration>>wait
+[ | result |
+anIntegerMilliseconds > 0
+	ifTrue: [ anIntegerMilliseconds milliSeconds wait ].
+result := aBlock valueWithEnoughArguments: aCollection.
+"we use it to pass result from background thread and execute callback block in UI thread"
+UIManager default
+	defer: [ self complete: result callback: callbackBlock ] ] in GLMAsyncTask>>execute:withArguments:callback:priority:delay: in Block: [ | result |...
+[ self value.
+Processor terminateActive ] in BlockClosure>>newProcess in Block: [ self value....
+[0m[31mUser Interrupt
+[0m[ delaySemaphore wait ] in Delay>>wait in Block: [ delaySemaphore wait ]
+BlockClosure>>ifCurtailed:
+Delay>>wait
+Duration>>wait
+[ | result |
+anIntegerMilliseconds > 0
+	ifTrue: [ anIntegerMilliseconds milliSeconds wait ].
+result := aBlock valueWithEnoughArguments: aCollection.
+"we use it to pass result from background thread and execute callback block in UI thread"
+UIManager default
+	defer: [ self complete: result callback: callbackBlock ] ] in GLMAsyncTask>>execute:withArguments:callback:priority:delay: in Block: [ | result |...
+[ self value.
+Processor terminateActive ] in BlockClosure>>newProcess in Block: [ self value....
+[0m[31mUser Interrupt
+[0mFTTableMorph>>recalculateVerticalScrollBarVisibilityIfHidden:
+FTTableMorph>>recalculateVerticalScrollBar
+FTTableMorph>>refresh
+FTTableMorph>>hideColumnHeaders
+GLMMorphicFastTableRenderer(GLMMorphicFTRenderer)>>specificTableMorphColumnsInitialization
+GLMMorphicFastTableRenderer>>specificTableMorphInitializiation
+GLMMorphicFastTableRenderer(GLMMorphicFTRenderer)>>initializeTableMorph
+GLMMorphicFastTableRenderer(GLMMorphicFTRenderer)>>render:
+GLMMorphicFastTableRenderer class(GLMMorphicWidgetRenderer class)>>render:from:
+GLMMorphicRenderer>>renderFastTablePresentation:
+GLMFastTablePresentation>>renderGlamorouslyOn:
+GLMMorphicRenderer(GLMRenderer)>>render:
+GLMMorphicTabbedRenderer(GLMMorphicWidgetRenderer)>>renderObject:
+[ self renderObject: each ] in [ :each | 
+tabs
+	addLazyPage: [ self renderObject: each ]
+	label: (self titleOrIconOf: each in: tabs)
+	toolbar: (self renderToolbarForPresentation: each inMorph: tabs)
+	action: (self labelActionBrickFor: each) ] in GLMMorphicTabbedRenderer>>render: in Block: [ self renderObject: each ]
+LazyTabPage>>actualPageMorph
+LazyTabGroupMorph>>pageAt:
+LazyTabGroupMorph>>updatePageIndex:
+LazyTabGroupMorph(TabGroupMorph)>>update:
+LazyTabGroupMorph(Object)>>update:with:
+MorphChangedWithArguments>>deliverTo:
+LazyTabGroupMorph(Morph)>>handleUpdate:
+MessageSend>>value:
+MessageSend>>cull:
+MessageSend>>cull:cull:
+[ action cull: anAnnouncement cull: announcer ] in AnnouncementSubscription>>deliver: in Block: [ action cull: anAnnouncement cull: announcer ]
+BlockClosure>>on:do:
+BlockClosure>>on:fork:
+AnnouncementSubscription>>deliver:
+[ "Ensure delivery to remaining announcements" subscription deliver: anAnnouncement ] in SubscriptionRegistry>>deliver:to:startingAt: in Block: [ "Ensure delivery to remaining announcements" sub...etc...
+BlockClosure>>ifCurtailed:
+[0m[31mUser Interrupt
+[0mRxsPiece>>initializeAtom:min:max:
+RxsPiece>>initializeAtom:
+RxParser>>piece
+RxParser>>branch
+RxParser>>regex
+RxParser>>atom
+RxParser>>piece
+RxParser>>branch
+RxParser>>regex
+RxParser>>parseStream:
+RxParser>>parse:
+ByteString(String)>>asRegex
+PharoDocCommentNode class>>docCommentRangesIn:
+PharoDocCommentNode class>>parseDocComments:
+RBComment>>pharoDocCommentNodes
+SHRBTextStyler>>styleDocComment:
+[ :comment | self styleDocComment: comment ] in SHRBTextStyler>>visitMethodComments: in Block: [ :comment | self styleDocComment: comment ]
+Array(SequenceableCollection)>>do:
+SHRBTextStyler>>visitMethodComments:
+SHRBTextStyler>>visitMethodNode:
+RBMethodNode>>acceptVisitor:
+SHRBTextStyler>>style:ast:
+SHRBTextStyler>>privateStyle:
+SHRBTextStyler(SHTextStyler)>>style:
+[ ^ self styler style: aText ] in RubShoutStylerDecorator>>style: in Block: [ ^ self styler style: aText ]
+BlockClosure>>on:do:
+RubShoutStylerDecorator>>style:
+[ aText addAttribute: self defaultFontChange.
+next text: (text := self styler format: aText).
+replaceStart := 1.
+replaceStop := text size.
+self style: text ] in RubShoutStylerDecorator>>text: in Block: [ aText addAttribute: self defaultFontChange....
+BlockClosure>>ensure:
+RubParagraph>>disableDrawingWhile:
+[0m[31mUser Interrupt
+[0m[ delaySemaphore wait ] in Delay>>wait in Block: [ delaySemaphore wait ]
+BlockClosure>>ifCurtailed:
+Delay>>wait
+Duration>>wait
+[ | result |
+anIntegerMilliseconds > 0
+	ifTrue: [ anIntegerMilliseconds milliSeconds wait ].
+result := aBlock valueWithEnoughArguments: aCollection.
+"we use it to pass result from background thread and execute callback block in UI thread"
+UIManager default
+	defer: [ self complete: result callback: callbackBlock ] ] in GLMAsyncTask>>execute:withArguments:callback:priority:delay: in Block: [ | result |...
+[ self value.
+Processor terminateActive ] in BlockClosure>>newProcess in Block: [ self value....
+[0m[31mUser Interrupt
+[0m[ delaySemaphore wait ] in Delay>>wait in Block: [ delaySemaphore wait ]
+BlockClosure>>ifCurtailed:
+Delay>>wait
+Duration>>wait
+[ | result |
+anIntegerMilliseconds > 0
+	ifTrue: [ anIntegerMilliseconds milliSeconds wait ].
+result := aBlock valueWithEnoughArguments: aCollection.
+"we use it to pass result from background thread and execute callback block in UI thread"
+UIManager default
+	defer: [ self complete: result callback: callbackBlock ] ] in GLMAsyncTask>>execute:withArguments:callback:priority:delay: in Block: [ | result |...
+[ self value.
+Processor terminateActive ] in BlockClosure>>newProcess in Block: [ self value....
+[0m[31mUser Interrupt
+[0mMorphExtension>>borderStyle:
+GLMPluggableButtonMorph(PluggableButtonMorph)>>changed
+GLMPluggableButtonMorph(PluggableButtonMorph)>>paneColorChanged
+GLMPluggableButtonMorph(PluggableButtonMorph)>>adoptColor:
+GLMPluggableButtonMorph(PluggableButtonMorph)>>adoptPaneColor:
+[ :m | m adoptPaneColor: paneColor ] in ToolDockingBarMorph(Morph)>>adoptPaneColor: in Block: [ :m | m adoptPaneColor: paneColor ]
+Array(SequenceableCollection)>>do:
+ToolDockingBarMorph(Morph)>>submorphsDo:
+ToolDockingBarMorph(Morph)>>adoptPaneColor:
+ToolDockingBarMorph(DockingBarMorph)>>adoptPaneColor:
+[ :m | m adoptPaneColor: paneColor ] in GLMPanelMorph>>adoptPaneColor: in Block: [ :m | m adoptPaneColor: paneColor ]
+Array(SequenceableCollection)>>do:
+GLMPanelMorph(Morph)>>submorphsDo:
+GLMPanelMorph>>adoptPaneColor:
+[ :m | m adoptPaneColor: paneColor ] in PanelMorph(Morph)>>adoptPaneColor: in Block: [ :m | m adoptPaneColor: paneColor ]
+Array(SequenceableCollection)>>do:
+PanelMorph(Morph)>>submorphsDo:
+PanelMorph(Morph)>>adoptPaneColor:
+PanelMorph>>adoptPaneColor:
+[ :m | m adoptPaneColor: paneColor ] in LazyTabGroupMorph(Morph)>>adoptPaneColor: in Block: [ :m | m adoptPaneColor: paneColor ]
+Array(SequenceableCollection)>>do:
+LazyTabGroupMorph(Morph)>>submorphsDo:
+LazyTabGroupMorph(Morph)>>adoptPaneColor:
+LazyTabGroupMorph(TabGroupMorph)>>adoptPaneColor:
+[ :m | m adoptPaneColor: paneColor ] in GLMPanelMorph>>adoptPaneColor: in Block: [ :m | m adoptPaneColor: paneColor ]
+Array(SequenceableCollection)>>do:
+GLMPanelMorph(Morph)>>submorphsDo:
+GLMPanelMorph>>adoptPaneColor:
+[ :m | m adoptPaneColor: paneColor ] in GLMPanelMorph>>adoptPaneColor: in Block: [ :m | m adoptPaneColor: paneColor ]
+Array(SequenceableCollection)>>do:
+[0m
