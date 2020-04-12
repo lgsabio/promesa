@@ -1,1 +1,1 @@
-C:\Users\lgomez\Documents\Pharo\vms\70-x86\pharo.exe pharo.img
+C:\Users\lgomez\Documents\Pharo\vms\70-x86\pharo.exe -vm-display-null pharo.image poesia.st
